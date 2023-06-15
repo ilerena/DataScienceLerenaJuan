@@ -1,208 +1,208 @@
-,ID,Country of Origin,Lot Number,Company,Number of Bags,Bag Weight,Owner,Variety,Processing Method,Aroma,Flavor,Aftertaste,Acidity,Body,Balance,Uniformity,Overall,Average points,Moisture Percentage,Color,Expiration
-0,0,Colombia,CQU2022015,Coffee Quality Union,1,35 kg,Coffee Quality Union,Castillo,Double Anaerobic Washed,8.58,8.50,8.42,8.58,8.25,8.42,10.00,8.58,8.67,11.8,green,"September 21st, 2023"
-1,1,Taiwan,"The 2022 Pacific Rim Coffee Summit,T037",Taiwan Coffee Laboratory,1,80 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,Gesha,Washed / Wet,8.50,8.50,7.92,8.00,7.92,8.25,10.00,8.50,8.45,10.5,blue-green,"November 15th, 2023"
-2,2,Laos,"The 2022 Pacific Rim Coffee Summit,LA01",Taiwan Coffee Laboratory,19,25 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,Java,Semi Washed,8.33,8.42,8.08,8.17,7.92,8.17,10.00,8.33,8.43,10.4,yellowish,"November 15th, 2023"
-3,3,Costa Rica,CQU2022017,Coffee Quality Union,1,22 kg,Coffee Quality Union,Gesha,Washed / Wet,8.08,8.17,8.17,8.25,8.17,8.08,10.00,8.25,8.40,11.8,green,"September 21st, 2023"
-4,4,Colombia,CQU2023002,Coffee Quality Union,2,24 kg,Coffee Quality Union,Red Bourbon,"Honey,Mossto",8.33,8.33,8.08,8.25,7.92,7.92,10.00,8.25,8.39,11.6,yellow-green,"March 5th, 2024"
-5,5,Guatemala,"The 2022 Pacific Rim Coffee Summit,GT02",Taiwan Coffee Laboratory,5,30 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,Gesha,Washed / Wet,8.33,8.33,8.25,7.83,7.83,8.17,10.00,8.25,8.37,10.7,green,"November 15th, 2023"
-6,6,Taiwan,"The 2022 Pacific Rim Coffee Summit,T034",Taiwan Coffee Laboratory,1,27 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,Gesha,Washed / Wet,8.33,8.17,8.08,8.00,7.83,8.25,10.00,8.25,8.36,9.1,green,"November 15th, 2023"
-7,7,Taiwan,"The 2022 Pacific Rim Coffee Summit,T050",Taiwan Coffee Laboratory,1,90 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,Sl34+Gesha,Natural / Dry,8.25,8.25,8.17,8.00,7.92,8.08,10.00,8.08,8.34,10,yellow green,"November 15th, 2023"
-8,8,Taiwan,"The 2022 Pacific Rim Coffee Summit,T018",Taiwan Coffee Laboratory,1,30 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,SL34,Washed / Wet,8.08,8.08,8.25,8.08,7.92,8.00,10.00,8.25,8.33,10.8,greenish,"November 15th, 2023"
-9,9,"Tanzania, United Republic Of",CN 4127230034/4189230113,DORMAN (T) LIMITED,320,60 kg,Gilbert Maina,Bourbon,Washed / Wet,8.08,8.17,8.08,8.17,8.00,8.00,10.00,8.00,8.31,11,greenish,"February 1st, 2024"
-10,10,Ethiopia,010/0296/600,"Marubeni corp.,",10,30 kg,ERI ASAEDA,Ethiopian Heirlooms,Natural / Dry,8.08,8.25,8.00,8.08,7.92,7.92,10.00,8.00,8.28,11.8,greenish,"May 31st, 2023"
-11,11,Guatemala,"The 2022 Pacific Rim Coffee Summit,GT12",Taiwan Coffee Laboratory,5,15 kg,Full Sweet Coffee,Gesha,Natural / Dry,8.08,8.00,8.00,7.75,8.25,8.17,10.00,8.00,8.28,11.5,brownish,"November 15th, 2023"
-12,12,Taiwan,"The 2022 Pacific Rim Coffee Summit,T051",Taiwan Coffee Laboratory,1,60 kg,Goodfun,Gesha,Washed / Wet,8.08,8.00,8.08,8.08,8.00,8.00,10.00,8.00,8.28,11.9,green,"November 15th, 2023"
-13,13,Ethiopia,"Grade 1, Guji, Natural, Gelana Geisha",Kerchanshe Trading PLC,40,60 kg,Isreal Degefa,Gesha,Natural / Dry,7.67,8.17,8.00,8.33,8.00,8.00,10.00,8.00,8.27,11.6,yellow- green,"August 26th, 2023"
-14,14,Colombia,"The 2022 Pacific Rim Coffee Summit,CO03",Taiwan Coffee Laboratory,70,35 kg,PeiHsun Lin,Caturra,Washed / Wet,8.08,8.00,8.08,7.92,8.08,8.00,10.00,8.00,8.27,10.6,green,"November 15th, 2023"
-15,15,Taiwan,"The 2022 Pacific Rim Coffee Summit,T014",Taiwan Coffee Laboratory,1,60 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,SL34,Pulped natural / honey,8.17,8.08,8.00,7.92,8.00,7.92,10.00,8.00,8.26,10.2,green,"November 15th, 2023"
-16,16,Ethiopia,CQU2023006,Coffee Quality Union,8,5 kg,Coffee Quality Union,"Wolishalo,Kurume,Dega",Washed / Wet,8.17,8.08,7.92,8.17,7.75,7.92,10.00,8.08,8.26,11.3,green,"April 6th, 2024"
-17,17,Taiwan,202203,Dongbi coffee,5,2 kg,Dongbi,Gesha,Natural / Dry,8.00,8.17,8.00,7.92,7.92,7.92,10.00,8.17,8.26,10.3,yellow-green,"October 24th, 2023"
-18,18,Taiwan,202112,宸嶧國際有限公司,8,1 kg,王瀅惠,Gesha,Natural / Dry,8.08,8.17,7.75,7.92,7.83,8.00,10.00,8.17,8.24,11,brownish,"October 24th, 2023"
-19,19,"Tanzania, United Republic Of",CN 4127230032/P-9140,DORMAN (T) LIMITED,200,30 kg,Gilbert Maina,Bourbon,Washed / Wet,8.17,8.00,7.92,7.92,8.17,7.75,10.00,7.92,8.23,10,greenish,"February 1st, 2024"
-20,20,Guatemala,"The 2022 Pacific Rim Coffee Summit,GT03",Taiwan Coffee Laboratory,8,30 kg,Carlos Pascual - 潘仕杰,Gesha,Natural / Dry,8.00,7.92,8.08,7.92,7.75,8.00,10.00,8.08,8.22,11.6,yellowish,"November 15th, 2023"
-21,21,Taiwan,2022/03,Taiwan Coffee Laboratory,1,20 kg,Yu Ting Yu 游婷淯,Typica,Natural / Dry,8.08,8.00,7.92,7.92,8.00,7.83,10.00,7.92,8.21,10.4,green,"December 12th, 2023"
-22,22,Thailand,1,Lyrose,2,1 kg,Christian Charmette,Catimor,Pulped natural / honey,7.67,8.00,7.83,8.00,8.08,8.00,10.00,8.08,8.21,9.8,browish-green,"August 16th, 2023"
-23,23,Colombia,CQU2023005,Coffee Quality Union,6,5 kg,Coffee Quality Union,Castillo Paraguaycito,,8.08,8.00,7.83,8.17,7.75,7.83,10.00,8.00,8.21,11.3,brownish,"April 6th, 2024"
-24,24,Taiwan,"The 2022 Pacific Rim Coffee Summit, T003",Taiwan Coffee Laboratory,4,50 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,SL34,Washed / Wet,7.83,8.00,7.92,8.00,8.00,7.92,10.00,7.92,8.20,10.6,bluish-green,"November 15th, 2023"
-25,25,Brazil,Arara 1,"WIT wealth, investments & trust",25,60 kg,Andre Clark,,Pulped natural / honey,7.83,8.08,7.83,7.92,8.00,7.83,10.00,8.00,8.19,11.3,green,"January 6th, 2024"
-26,26,Taiwan,"The 2022 Pacific Rim Coffee Summit,T024",Taiwan Coffee Laboratory,1,100 kg,"Fang, Cheng Lun 方政倫",Gesha,Natural / Dry,7.92,7.92,8.00,7.92,7.83,7.92,10.00,8.00,8.19,9.1,green,"November 15th, 2023"
-27,27,Taiwan,"The 2022 Pacific Rim Coffee Summit,T048",Taiwan Coffee Laboratory,1,90 kg,"Jhih Hao,GUO 郭志豪",Gesha,Natural / Dry,8.17,8.08,7.92,8.00,7.58,7.83,10.00,7.92,8.19,10.6,green,"November 15th, 2023"
-28,28,Taiwan,"The 2022 Pacific Rim Coffee Summit,T045",Taiwan Coffee Laboratory,1,85 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,Gesha,Natural / Dry,8.00,8.00,8.00,7.92,7.75,7.92,10.00,7.92,8.19,10.2,blue-green,"November 15th, 2023"
-29,29,United States (Hawaii),"The 2022 Pacific Rim Coffee Summit,US01",Taiwan Coffee Laboratory,80,15 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,Typica,Washed / Wet,8.00,7.92,8.00,7.83,7.67,8.00,10.00,8.00,8.18,9.3,green,"November 15th, 2023"
-30,30,Taiwan,2022/3/1(老叢),Taiwan Coffee Laboratory,3,48 kg,Zhang Jin Yi 張進義,Typica,Washed / Wet,8.00,8.00,7.83,7.83,7.75,7.92,10.00,8.08,8.18,11.4,bluish-green,"December 12th, 2023"
-31,31,Taiwan,2022/02,Taiwan Coffee Laboratory,3,50 kg,Zhang Jin Yi 張進義,Typica,Washed / Wet,7.92,8.00,7.83,7.92,7.83,7.83,10.00,8.00,8.17,10.8,green,"December 12th, 2023"
-32,32,Taiwan,2022臺南市精品咖啡評鑑批次,Taiwan Coffee Laboratory,4,5 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,Gesha,Washed / Wet,8.08,8.17,7.67,7.83,7.67,7.92,10.00,8.00,8.17,11.3,green,"June 8th, 2023"
-33,33,Ethiopia,Washed Limmu,Alo Coffee,320,60 kg,Tamiru Tadesse Tesema,Ethiopian Heirlooms,Washed / Wet,7.67,7.83,7.83,8.00,8.00,8.00,10.00,8.00,8.17,9.9,green,"June 6th, 2023"
-34,34,Ethiopia,65,TADESSE DESTA IMPORT & EXPORT,320,60 kg,Tadessa Desta Amene,Ethiopian Heirlooms,Natural / Dry,8.00,8.08,8.00,8.00,7.67,7.75,10.00,7.83,8.17,12.3,yellow green,"September 30th, 2023"
-35,35,Ethiopia,1,yhaenu plc,320,19200 kg,YHAENU PLC,Ethiopian Heirlooms,Washed / Wet,7.92,7.75,7.83,8.17,8.00,7.75,10.00,7.83,8.16,9.4,greenish,"December 12th, 2023"
-36,36,Taiwan,"The 2022 Pacific Rim Coffee Summit, T004",Taiwan Coffee Laboratory,1,100 kg,Hsu Ting Yey許定燁,Gesha,Washed / Wet,8.00,7.92,7.83,7.92,7.83,7.83,10.00,7.92,8.16,9.5,bluish-green,"November 15th, 2023"
-37,37,Taiwan,2022臺南市精品咖啡評鑑批次,Taiwan Coffee Laboratory,20,5 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,Gesha,Pulped natural / honey,8.25,8.08,7.83,7.75,7.67,7.75,10.00,7.92,8.16,11.3,green,"June 8th, 2023"
-38,38,Kenya,5516,IBERO (K) LTD,300,60 kg,Judith Murimi,SL28,Washed / Wet,8.17,7.75,7.83,7.58,7.92,8.00,10.00,8.00,8.16,9.2,greenish,"February 28th, 2024"
-39,39,Taiwan,202203,宸嶧國際有限公司,20,1 kg,CHEN RONG FENG,Gesha,Washed / Wet,7.75,7.92,7.75,8.00,7.83,7.92,10.00,8.00,8.15,10.3,bluish-green,"October 24th, 2023"
-40,40,Taiwan,2022/01,Taiwan Coffee Laboratory,1,10 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,Typica,Natural / Dry,8.00,7.92,7.83,7.92,7.75,7.75,10.00,7.92,8.14,10,brownish,"December 12th, 2023"
-41,41,Taiwan,屏東縣三地門鄉德文段,茂泰生技股份有限公司,1,2 kg,Ethan Lee 李宗儒,Typica,Washed / Wet,8.00,8.08,7.67,7.75,7.92,7.83,10.00,7.83,8.14,10.5,greenish,"December 30th, 2023"
-42,42,Taiwan,A26-Northern Taiwan Specialty Coffee Evaluation,Taiwu Coffee Cooperative,1,50 kg,Taiwu,Gesha,Washed / Wet,8.00,7.92,7.67,8.00,7.75,7.83,10.00,7.92,8.14,10,pale yellow,"January 6th, 2024"
-43,43,Uganda,7938,Kyagalanyi Coffee Limited,320,60 kg,KYAGALANYI COFFEE LIMITED,SL14,Washed / Wet,8.00,7.92,7.75,7.75,7.75,7.92,10.00,7.92,8.13,11,green,"June 29th, 2023"
-44,44,Taiwan,2021/01,Taiwan Coffee Laboratory,1,50 kg,Liu Meng Tsung劉孟宗,Typica,,7.92,8.00,7.92,8.00,7.58,7.75,10.00,7.83,8.13,10.9,green,"December 12th, 2023"
-45,45,Taiwan,"The 2022 Pacific Rim Coffee Summit,T011",Taiwan Coffee Laboratory,6,50 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,Gesha,Natural / Dry,8.17,8.08,7.83,7.67,7.67,7.75,10.00,7.83,8.13,10.1,yellow green,"November 15th, 2023"
-46,46,Guatemala,11/15/118,"Peter Schoenfeld, S.A.",600,30 kg,Yesica Alejandra Martìnez Vàsquez,Caturra,Washed / Wet,7.67,8.08,7.67,8.00,7.92,7.83,10.00,7.83,8.13,9.9,green,"April 16th, 2024"
-47,47,Guatemala,11/951/279,"OLAM AGRO GUATEMALA, S.A.",632,30 kg,Yesica Alejandra Martìnez Vàsquez,Catuai,Washed / Wet,7.67,8.00,7.75,7.92,8.00,7.83,10.00,7.83,8.13,11.3,green,"February 23rd, 2024"
-48,48,Guatemala,11/441/50,"inmobiliaria e inversiones dos mil, s.a.",275,69 kg,Angelica Paola Citan Lopez,Caturra,Washed / Wet,7.83,7.92,7.75,8.00,7.75,7.75,10.00,7.92,8.12,11.7,green,"June 22nd, 2023"
-49,49,Taiwan,A03-Northern Taiwan Specialty Coffee Evaluation,Taiwu Coffee Cooperative,1,13 kg,Taiwu,Typica,Washed / Wet,7.92,7.92,7.83,7.83,7.75,7.83,10.00,7.83,8.11,9.5,green,"January 6th, 2024"
-50,50,Taiwan,A23-Northern Taiwan Specialty Coffee Evaluation,Taiwu Coffee Cooperative,1,4 kg,Taiwu,Yellow Bourbon,Natural / Dry,8.00,8.00,7.75,7.75,7.67,7.75,10.00,7.92,8.11,9.7,brownish,"January 6th, 2024"
-51,51,Indonesia,016/1513/262,InterAmerican Coffee,320,60 kg,Charles Umeano,Catimor,,7.83,7.92,7.75,7.83,7.83,7.83,10.00,7.83,8.10,11.9,bluish-green,"September 23rd, 2023"
-52,52,Peru,"The 2022 Pacific Rim Coffee Summit,PE02",Taiwan Coffee Laboratory,3,5 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,Gesha,Washed / Wet,8.00,8.00,7.83,7.83,7.58,7.83,10.00,7.75,8.10,10.7,greenish,"November 15th, 2023"
-53,53,"Tanzania, United Republic Of",S59588/P03989,VOLCAFE/TaylorWinch Tanzania Ltd,620,30 kg,Balam Hinyula,Bourbon,Washed / Wet,7.92,7.75,7.75,7.92,7.83,7.83,10.00,7.83,8.10,11.2,greenish,"November 9th, 2023"
-54,54,Taiwan,"The 2022 Pacific Rim Coffee Summit,T029",Taiwan Coffee Laboratory,1,25 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,SL34,Natural / Dry,7.83,7.83,7.67,7.67,7.83,8.00,10.00,8.00,8.10,9.5,greenish,"November 15th, 2023"
-55,55,Taiwan,"The 2022 Pacific Rim Coffee Summit,T039",Taiwan Coffee Laboratory,1,30 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,SL34,Washed / Wet,7.67,7.92,7.92,7.83,7.75,7.83,10.00,7.83,8.09,10.4,green,"November 15th, 2023"
-56,56,Brazil,FBT111,Mirai Seeds Corp.,5,36 kg,Marcelo Itoh,Yellow Bourbon,Double Carbonic Maceration / Natural,7.83,7.92,7.75,7.92,7.67,7.83,10.00,7.83,8.09,11.2,green,"February 13th, 2024"
-57,57,Panama,2-237-05,Panamerican Coffee Trading,200,30 kg,Rodrigo Soto,Catuai,Washed / Wet,7.83,7.83,7.75,7.92,7.83,7.75,10.00,7.83,8.09,10.3,bluish-green,"April 25th, 2024"
-58,58,Taiwan,屏東縣瑪家鄉,茂泰生技股份有限公司,1,2 kg,Ethan Lee 李宗儒,Yellow Bourbon,Pulped natural / honey,7.92,8.08,7.67,7.92,7.67,7.75,10.00,7.75,8.10,10,blue-green,"December 30th, 2023"
-59,59,Guatemala,11/15/117,"Peter Schoenfeld, S.A.",600,30 kg,Yesica Alejandra Martìnez Vàsquez,Caturra,Washed / Wet,7.67,8.00,7.67,7.83,7.92,7.67,10.00,7.92,8.09,10.6,green,"April 27th, 2024"
-60,60,Guatemala,11/54876/03,"VALBROS, S. A.",66,30 kg,Angelica Paola Citan Lopez,Bourbon,Natural / Dry,7.83,8.00,7.67,7.83,7.75,7.75,10.00,7.83,8.08,10.9,yellow-green,"May 19th, 2023"
-61,61,Costa Rica,12075,CECA S.A.,260,69 kg,Joselyn Morales Quesada,Caturra,Washed / Wet,7.58,7.83,7.50,7.67,7.83,7.67,10.00,8.58,8.08,10,green,"April 18th, 2024"
-62,62,Taiwan,A11-Northern Taiwan Specialty Coffee Evaluation,Taiwu Coffee Cooperative,1,16 kg,Taiwu,Typica,Pulped natural / honey,7.83,7.83,7.75,7.75,7.75,7.75,10.00,7.92,8.07,9.6,greenish,"January 6th, 2024"
-63,63,Taiwan,2022臺南市精品咖啡評鑑批次,Taiwan Coffee Laboratory,16,5 kg,"KUO, YA-TSUNG",Gesha,Pulped natural / honey,8.17,7.83,7.67,7.83,7.67,7.67,10.00,7.75,8.07,11.5,green,"June 8th, 2023"
-64,64,Nicaragua,10 1.1,NicaNoLA Coffee,74,45 kg,rene j alcebo,Catrenic,Natural / Dry,7.92,7.75,7.67,7.67,7.83,7.75,10.00,8.00,8.07,9.9,green,"June 9th, 2023"
-65,65,Taiwan,"The 2022 Pacific Rim Coffee Summit,T036",Taiwan Coffee Laboratory,1,80 kg,Pu Han Wen,Gesha,Washed / Wet,8.08,7.83,7.67,7.67,7.67,7.75,10.00,7.92,8.07,11.2,green,"November 15th, 2023"
-66,66,Taiwan,"The 2022 Pacific Rim Coffee Summit,T042",Taiwan Coffee Laboratory,1,104 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,SL34,Natural / Dry,7.83,8.00,7.67,7.75,7.67,7.75,10.00,7.92,8.07,10.3,green,"November 15th, 2023"
-67,67,Vietnam,"The 2022 Pacific Rim Coffee Summit,VN02",Taiwan Coffee Laboratory,3,5 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,Catimor,Natural / Dry,8.00,7.83,7.75,7.67,7.58,7.83,10.00,7.92,8.07,11.6,brownish,"November 15th, 2023"
-68,68,Costa Rica,CQU2022018,Coffee Quality Union,1,22 kg,Coffee Quality Union,Gesha,Washed / Wet,7.75,7.83,7.67,7.83,7.75,7.75,10.00,7.92,8.06,11.7,green,"October 4th, 2023"
-69,69,Taiwan,A37-Northern Taiwan Specialty Coffee Evaluation,Taiwu Coffee Cooperative,1,300 kg,Taiwu,unknown,Pulped natural / honey,7.75,7.92,7.83,7.75,7.75,7.75,10.00,7.75,8.06,11.3,bluish-green,"January 6th, 2024"
-70,70,Honduras,36,Mercon Honduras,340,69 kg,Comercial Internacional de Granos de Honduras SA de CV,Catuai,Washed / Wet,7.83,7.92,7.75,7.75,7.75,7.75,10.00,7.75,8.06,9.8,green,"April 24th, 2024"
-71,71,Ethiopia,712,Tracon Trading PLC,584,30 kg,李晓斐 LI XIAO FEI,Ethiopian Heirlooms,Washed / Wet,7.92,7.83,7.75,7.92,7.58,7.67,10.00,7.83,8.06,10.9,green,"August 23rd, 2023"
-72,72,Taiwan,2021/11,Taiwan Coffee Laboratory,1,20 kg,黃怡瑄,Typica,Natural / Dry,8.08,7.92,7.75,7.83,7.50,7.58,10.00,7.83,8.06,10.2,green,"December 12th, 2023"
-73,73,Taiwan,"The 2022 Pacific Rim Coffee Summit,T031",Taiwan Coffee Laboratory,1,100 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,Gesha,Washed / Wet,7.83,8.00,7.50,7.75,7.75,7.75,10.00,7.83,8.05,10.1,bluish-green,"November 15th, 2023"
-74,74,Guatemala,11-63-657,"Retrillas del pacifico, s.a.",600,30 kg,Yesica Alejandra Martìnez Vàsquez,Bourbon,Washed / Wet,7.67,7.83,7.75,7.75,7.83,7.75,10.00,7.75,8.04,9.2,green,"April 25th, 2024"
-75,75,United States (Hawaii),Islander’s Coffee for Pacific Rim Summit,Taiwan Coffee Laboratory,10,10 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,Catuai,Washed / Wet,7.92,7.83,7.75,7.92,7.50,7.67,10.00,7.75,8.04,10.1,yellow-green,"November 9th, 2023"
-76,76,Ethiopia,65,Tadesse Desta import export,320,60 kg,Tadesse Desta,Ethiopian Heirlooms,Natural / Dry,7.83,7.75,7.58,7.92,8.00,7.50,10.00,7.75,8.04,11,yellow green,"September 19th, 2023"
-77,77,El Salvador,"The 2022 Pacific Rim Coffee Summit,SV01",Taiwan Coffee Laboratory,20,30 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,Pacamara,Pulped natural / honey,7.83,7.83,7.83,7.83,7.67,7.67,10.00,7.67,8.04,10.3,brownish,"November 15th, 2023"
-78,78,Colombia,NPCO-17418,Sucafina NA,275,70 kg,Sucafina Colombia SAS,Castillo and Colombia blend,Washed / Wet,7.75,7.75,7.75,7.75,7.83,7.67,10.00,7.83,8.04,11.6,green,"May 11th, 2023"
-79,79,Indonesia,CQU2022018,Coffee Quality Union,1,60 kg,Coffee Quality Union,"Jember,TIM-TIM,Ateng",Wet Hulling,7.67,7.67,7.83,7.83,7.67,7.75,10.00,7.83,8.03,11.5,blue-green,"September 21st, 2023"
-80,80,Guatemala,11/15/96,"Peter Schoenfeld, S.A.",55,30 kg,Yesica Alejandra Martìnez Vàsquez,Typica,Washed / Wet,7.58,7.92,7.67,7.75,7.83,7.75,10.00,7.75,8.03,10,green,"April 16th, 2024"
-81,81,Madagascar,1,Vao Vao Sarl,5,60 kg,Marc Dumont,Bourbon,Washed / Wet,7.92,7.92,7.58,7.75,7.58,7.67,10.00,7.83,8.03,12.1,blue-green,"December 12th, 2023"
-82,82,Honduras,8,Mercon Honduras,345,30 kg,Comercial Internacional de Granos de Honduras SA de CV,Catuai,Washed / Wet,7.75,7.75,7.58,7.83,7.75,7.75,10.00,7.75,8.02,10.2,green,"April 24th, 2024"
-83,83,Guatemala,11/441/49,"inmobiliaria e inversiones dos mil, s.a.",275,69 kg,Angelica Paola Citan Lopez,Caturra,Washed / Wet,7.58,7.92,7.58,7.83,7.75,7.67,10.00,7.75,8.01,11,green,"May 19th, 2023"
-84,84,Taiwan,A32-Northern Taiwan Specialty Coffee Evaluation,Taiwu Coffee Cooperative,1,110 kg,Taiwu,unknown,Pulped natural / honey,7.83,7.92,7.83,7.58,7.58,7.67,10.00,7.67,8.01,10.8,greenish,"January 6th, 2024"
-85,85,Taiwan,"The 2022 Pacific Rim Coffee Summit,T017",Taiwan Coffee Laboratory,1,80 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,Gesha,Natural / Dry,7.92,7.75,7.67,7.75,7.75,8.00,9.33,7.92,8.01,10.6,yello-green,"November 15th, 2023"
-86,86,Guatemala,11/15/51,"Peter Schoenfeld, S.A.",430,30 kg,Yesica Alejandra Martìnez Vàsquez,Caturra,Washed / Wet,7.67,7.83,7.67,7.83,7.75,7.67,10.00,7.67,8.01,11,green,"March 21st, 2024"
-87,87,Guatemala,11/15/59,"Peter Schoenfeld, S.A.",200,30 kg,Yesica Alejandra Martìnez Vàsquez,Caturra,Washed / Wet,7.67,7.92,7.67,7.75,7.67,7.58,10.00,7.75,8.00,11,green,"March 21st, 2024"
-88,88,Honduras,"The 2022 Pacific Rim Coffee Summit,HN04",Taiwan Coffee Laboratory,16,30 kg,"Kao,SIng-jay",Typica,Pulped natural / honey,7.75,7.75,7.75,7.67,7.75,7.67,10.00,7.67,8.00,9.4,green,"November 15th, 2023"
-89,89,"Tanzania, United Republic Of",CN 4127230031/P-9139,C.DORMAN SEZ LTD,200,60 kg,Gilbert Maina,Bourbon,Washed / Wet,7.58,7.67,7.75,7.75,7.75,7.75,10.00,7.75,8.00,9.8,greenish,"January 3rd, 2024"
-90,90,Ethiopia,1077,Descafeinadores Mexicano SA. de CV,300,60 kg,Descafeinadores Mexicanos S.A de C.V,Ethiopian Heirlooms,Washed / Wet,8.00,7.75,7.50,7.67,7.67,7.67,10.00,7.75,8.00,11.3,green,"November 18th, 2023"
-91,91,"Tanzania, United Republic Of",CN 4127220159/4189220459,DORMAN (T) LTD,320,60 kg,Gilbert Maina,Bourbon,Washed / Wet,7.75,7.58,7.58,7.92,7.67,7.75,10.00,7.75,8.00,11.6,greenish,"November 21st, 2023"
-92,92,Colombia,3-002-00883,InterAmerican Coffee,275,70 kg,Charles Umeano,Caturra,Washed / Wet,7.67,7.83,7.58,7.92,7.67,7.67,10.00,7.67,8.00,13.3,green,"July 27th, 2023"
-93,93,Costa Rica,12077-01,CECA S.A.,250,35 kg,Joselyn Morales Quesada,Caturra,Washed / Wet,7.67,7.92,7.58,7.75,7.67,7.58,10.00,7.75,7.99,9.5,green,"April 18th, 2024"
-94,94,Guatemala,"The 2022 Pacific Rim Coffee Summit,GT01",Taiwan Coffee Laboratory,1,15 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,Gesha,Natural / Dry,7.83,7.83,7.58,7.67,7.67,7.58,10.00,7.75,7.99,11.9,greenish,"November 15th, 2023"
-95,95,Guatemala,11/15/95,"Peter Schoenfeld, S.A.",35,30 kg,Yesica Alejandra Martìnez Vàsquez,Bourbon,Washed / Wet,7.58,7.83,7.58,7.75,7.67,7.75,10.00,7.75,7.99,10,green,"April 16th, 2024"
-96,96,Thailand,CQU2022016,Coffee Quality Union,1,30 kg,Coffee Quality Union,Catimor,Natural / Dry,7.75,7.67,7.58,7.75,7.75,7.67,10.00,7.75,7.99,11.6,yellowish,"September 21st, 2023"
-97,97,Colombia,3/37/1370,Marubeni Corporation,375,70 kg,Ikuto Uehara,,Washed / Wet,7.67,7.75,7.67,7.75,7.67,7.67,10.00,7.67,7.98,11.9,green,"April 16th, 2024"
-98,98,Guatemala,11/63/908,"RETRILLAS DEL PACIFICO, S. A.",600,30 kg,Angelica Paola Citan Lopez,"BOURBON, CATURRA Y CATIMOR",Natural / Dry,7.58,7.83,7.67,7.67,7.67,7.67,10.00,7.75,7.98,10.8,green,"May 13th, 2023"
-99,99,Guatemala,AMNI-22-0905,Asociación Nacional del Cafe,635,30 kg,Angelica Paola Citan Lopez,Bourbon,Washed / Wet,7.58,7.92,7.50,7.67,7.75,7.67,10.00,7.75,7.98,10.9,greenish,"May 19th, 2023"
-100,100,Ethiopia,1,Taylor Winch Coffee Ltd,100,60 kg,Taylor Winch (Coffee) Ltd.,Ethiopian Heirlooms,Washed / Wet,7.83,7.67,7.50,7.92,7.50,7.67,10.00,7.75,7.98,12,green,"September 9th, 2023"
-101,101,Colombia,3-0068-00886,ECOM COLOMBIA,285,70 kg,Raúl Vargas,Caturra,Washed / Wet,7.92,7.75,7.42,7.58,7.92,7.67,10.00,7.58,7.98,12.1,green,"February 22nd, 2024"
-102,102,United States (Hawaii),"The 2022 Pacific Rim Coffee Summit,US02",Taiwan Coffee Laboratory,4,15 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,Typica,Washed / Wet,7.67,7.92,7.58,7.58,7.58,7.75,10.00,7.75,7.98,11.8,green,"November 15th, 2023"
-103,103,Colombia,"The 2022 Pacific Rim Coffee Summit,CO02",Taiwan Coffee Laboratory,40,35 kg,PeiHsun Lin,Bourbon Sidra,Pulped natural / honey,7.67,7.92,7.67,7.58,7.67,7.67,10.00,7.58,7.97,10.6,greenish,"November 15th, 2023"
-104,104,Mexico,312,Exportadora Café California,600,30 kg,ANDREAS KUSSMAUL,Sarchimor,Washed / Wet,7.67,7.67,7.58,7.67,7.83,7.58,10.00,7.75,7.97,11.7,green,"April 4th, 2024"
-105,105,Colombia,,Coffee Quality Institute,1,1 kg,Coffee Quality Institute,,,7.83,7.75,7.50,7.58,7.67,7.67,10.00,7.67,7.96,12.4,greenish,"September 26th, 2023"
-106,106,Taiwan,202203,Yongshun,50,2 kg,Yongshun,SL34,Washed / Wet,7.67,7.67,7.75,7.75,7.50,7.67,10.00,7.67,7.96,10,bluish-green,"October 24th, 2023"
-107,107,Myanmar,"The 2022 Pacific Rim Coffee Summit,MM01",Taiwan Coffee Laboratory,100,30 kg,PeiHsun Lin,"Catimor,Catuai,Caturra,Bourbon",Natural / Dry,7.83,7.83,7.67,7.58,7.58,7.58,10.00,7.58,7.96,10.2,pale yellow,"November 15th, 2023"
-108,108,Taiwan,A05-Northern Taiwan Specialty Coffee Evaluation,Taiwu Coffee Cooperative,1,13 kg,Taiwu,unknown,Pulped natural / honey,7.58,7.75,7.67,7.83,7.50,7.67,10.00,7.67,7.96,9.2,greenish,"January 6th, 2024"
-109,109,Honduras,"The 2022 Pacific Rim Coffee Summit,HN01",Taiwan Coffee Laboratory,9,15 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,Parainema,Natural / Dry,7.67,7.67,7.58,7.75,7.67,7.67,10.00,7.67,7.96,11.1,pale yellow,"November 15th, 2023"
-110,110,Taiwan,A30-Northern Taiwan Specialty Coffee Evaluation,Taiwu Coffee Cooperative,1,10 kg,Taiwu,unknown,Natural / Dry,7.58,7.67,7.50,7.75,7.75,7.67,10.00,7.67,7.95,8.4,green,"January 6th, 2024"
-111,111,Taiwan,A14-Northern Taiwan Specialty Coffee Evaluation,Taiwu Coffee Cooperative,1,10 kg,Taiwu,Typica,Pulped natural / honey,7.58,7.75,7.58,7.75,7.58,7.67,10.00,7.67,7.95,9.1,green,"January 6th, 2024"
-112,112,Guatemala,P-4142,Asociación Nacional del Cafe,275,69 kg,Angelica Paola Citan Lopez,Caturra,Washed / Wet,7.58,7.83,7.58,7.67,7.58,7.58,10.00,7.75,7.95,10.9,green,"May 19th, 2023"
-113,113,Honduras,AMNI-22-6011-1,Cafe Organico Marcala S.A de C.V.,260,69 kg,Eliud Hernandez Gonzales,SHG,Washed / Wet,7.75,7.67,7.58,7.58,7.58,7.67,10.00,7.67,7.94,11.2,green,"August 17th, 2023"
-114,114,Colombia,3-0104-00202 Popayán Supremo,Cafe Colsuaves,600,30 kg,pablo velosa,Caturra,Washed / Wet,7.75,7.75,7.50,7.58,7.83,7.50,10.00,7.58,7.94,12.2,bluish-green,"January 18th, 2024"
-115,115,Thailand,BOURBON 21/22 (Coffea Arabica),Doi Tung Development Project,2,1 kg,Doi Tung Development Project,Bourbon,Washed / Wet,7.42,7.83,7.58,7.67,7.67,7.75,10.00,7.58,7.94,13.1,green,"July 14th, 2023"
-116,116,Ethiopia,1,yhaenu plc,320,19200 kg,YHAENU PLC,Ethiopian Heirlooms,Washed / Wet,7.42,7.42,7.42,8.00,7.92,7.67,10.00,7.67,7.94,10.4,greenish,"November 30th, 2023"
-117,117,Thailand,CQU2022011,Coffee Quality Union,5,2 kg,Coffee Quality Union,Java,Washed / Wet,7.67,7.67,7.50,7.67,7.58,7.67,10.00,7.67,7.93,11.6,green,"June 16th, 2023"
-118,118,Uganda,035/170/5021210,Kawacom uganda LTD,150,60 kg,Kawacom Uganda LTD,SL14,Washed / Wet,7.75,7.75,7.50,7.50,7.58,7.58,10.00,7.75,7.93,10.1,green,"July 7th, 2023"
-119,119,Taiwan,"The 2022 Pacific Rim Coffee Summit,T022",Taiwan Coffee Laboratory,1,40 kg,Wu Jhao Yun,Typica + SL34,Washed / Wet,7.75,7.92,7.67,7.92,7.75,7.83,8.67,7.92,7.93,10.1,blue-green,"November 15th, 2023"
-120,120,Uganda,7969,Kyagalanyi Coffee Limited,320,60 kg,KYAGALANYI COFFEE LIMITED,SL14,Washed / Wet,7.75,7.67,7.58,7.50,7.67,7.50,10.00,7.67,7.92,11.1,green,"September 1st, 2023"
-121,121,Taiwan,A04-Northern Taiwan Specialty Coffee Evaluation,Taiwu Coffee Cooperative,1,8 kg,Taiwu,Typica,Pulped natural / honey,7.58,7.67,7.50,7.75,7.50,7.58,10.00,7.75,7.92,9.7,greenish,"January 6th, 2024"
-122,122,Guatemala,1,Mr.Brown Cafe,320,60 kg,MR.BROWN CAFE,"MARSELLESA, CATUAI, CATURRA & MARSELLESA, ANACAFE 14, CATUAI",Washed / Wet,7.50,7.75,7.58,7.75,7.67,7.58,10.00,7.50,7.92,11.4,green,"December 30th, 2023"
-123,123,Taiwan,A21-Northern Taiwan Specialty Coffee Evaluation,Taiwu Coffee Cooperative,1,80 kg,Taiwu,Typica,Washed / Wet,7.58,7.67,7.58,7.75,7.42,7.58,10.00,7.75,7.92,9.6,green,"January 6th, 2024"
-124,124,Colombia,1,Minka coffee company LTD,2,1 kg,piradaPKPL,Caturra,Washed / Wet,7.67,7.67,7.42,7.75,7.50,7.75,10.00,7.58,7.92,13.5,greenish,"September 30th, 2023"
-125,125,Costa Rica,12074,CECA S.A.,320,69 kg,Joselyn Morales Quesada,Caturra,Washed / Wet,7.58,7.75,7.42,7.67,7.50,7.75,10.00,7.67,7.92,0,green,"April 18th, 2024"
-126,126,Taiwan,"The 2022 Pacific Rim Coffee Summit,T019",Taiwan Coffee Laboratory,1,100 kg,CHEN SHAN DONG 陳善東,SL34,Washed / Wet,7.75,7.83,7.58,7.58,7.58,7.50,10.00,7.50,7.92,10.7,blue-green,"November 15th, 2023"
-127,127,Thailand,TYPICA 21/22 (Coffea Arabica),Doi Tung Development Project,2,1 kg,Doi Tung Development Project,Typica,Washed / Wet,7.92,7.92,7.75,7.33,7.58,7.50,10.00,7.33,7.92,12.3,yellow-green,"July 14th, 2023"
-128,128,"Tanzania, United Republic Of",CN 4127220163/4189220459,DORMAN TANZANIA LTD,320,60 kg,Gilbert Maina,Bourbon,Washed / Wet,7.92,7.67,7.42,7.50,7.67,7.58,10.00,7.50,7.91,10.4,greenish,"January 3rd, 2024"
-129,129,Brazil,004/22,Ipanema Coffees,960,60 kg,Ipanema Coffees,Mundo Novo,Natural / Dry,7.58,7.50,7.50,7.83,7.67,7.50,10.00,7.67,7.91,11.6,green,"February 13th, 2024"
-130,130,Taiwan,A41-Northern Taiwan Specialty Coffee Evaluation,Taiwu Coffee Cooperative,1,320 kg,Taiwu,unknown,Washed / Wet,7.75,7.75,7.58,7.67,7.42,7.50,10.00,7.58,7.91,9.6,green,"January 6th, 2024"
-131,131,Colombia,CQU2023003,Coffee Quality Union,2,12 kg,Coffee Quality Union,"Red Bourbon,Caturra",Anaerobico 1000h,7.67,7.67,7.58,7.67,7.58,7.58,10.00,7.50,7.91,10.9,brownish,"April 6th, 2024"
-132,132,Honduras,"The 2022 Pacific Rim Coffee Summit,HN03",Taiwan Coffee Laboratory,9,15 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,Lempira,Washed / Wet,7.67,7.75,7.67,7.58,7.50,7.58,10.00,7.50,7.91,10.5,bluish-green,"November 15th, 2023"
-133,133,Honduras,AMNI-22-6011-2,Cafe Organico Marcala S.A de C.V.,260,69 kg,Eliud Hernandez Gonzales,Catuai,Washed / Wet,7.75,7.58,7.58,7.58,7.50,7.58,10.00,7.67,7.91,11.3,green,"August 17th, 2023"
-134,134,Taiwan,A35-Northern Taiwan Specialty Coffee Evaluation,Taiwu Coffee Cooperative,1,16 kg,Taiwu,Typica,Natural / Dry,7.75,7.75,7.50,7.75,7.50,7.42,10.00,7.50,7.90,9.7,greenish,"January 6th, 2024"
-135,135,Taiwan,A20-Northern Taiwan Specialty Coffee Evaluation,Taiwu Coffee Cooperative,1,100 kg,Taiwu,unknown,Washed / Wet,7.67,7.67,7.50,7.58,7.58,7.50,10.00,7.67,7.90,11.8,blue-green,"January 6th, 2024"
-136,136,Laos,DCN03.11.2022,Dao Heuang Group,26,60 kg,Dao Heuang Group,Catimor,Natural / Dry,7.67,7.75,7.33,7.67,7.58,7.50,10.00,7.58,7.89,11.8,brownish,"December 30th, 2023"
-137,137,Honduras,187,CIGRAH,250,69 kg,Comercial Internacional de Granos de Honduras SA de CV,Catuai,Washed / Wet,7.67,7.67,7.50,7.58,7.58,7.50,10.00,7.58,7.89,10.6,green,"May 23rd, 2023"
-138,138,Honduras,198,CADEXSA,325,69 kg,CADEXSA,Catuai,Washed / Wet,7.75,7.58,7.58,7.58,7.58,7.50,10.00,7.50,7.88,9.6,green,"April 24th, 2024"
-139,139,Colombia,3-59-0654,carcafe ltda,600,30 kg,rodrigo amaya,Caturra,Washed / Wet,8.00,7.67,7.42,7.58,7.58,7.42,10.00,7.33,7.88,13.1,bluish-green,"January 13th, 2024"
-140,140,Taiwan,A17-Northern Taiwan Specialty Coffee Evaluation,Taiwu Coffee Cooperative,1,12 kg,Taiwu,Typica,Pulped natural / honey,7.50,7.67,7.58,7.58,7.50,7.50,10.00,7.58,7.86,8.9,blue-green,"January 6th, 2024"
-141,141,Mexico,1,La Villa Coffee Company LLC,141,69 kg,Alvin La Vaughn Landry,Bourbon,Washed / Wet,7.75,7.50,7.42,7.67,7.58,7.50,10.00,7.50,7.87,11.9,green,"August 11th, 2023"
-142,142,Colombia,CQU2022013,Coffee Quality Union,1,12 kg,Coffee Quality Union,Typica Gesha,Washed / Wet,7.58,7.50,7.50,7.67,7.58,7.50,10.00,7.58,7.86,11.5,greenish,"June 16th, 2023"
-143,143,Taiwan,202203,宸嶧國際有限公司,300,1 kg,郭亮志 GuoLiangZhi,Gesha,,7.67,7.50,7.42,7.75,7.42,7.58,10.00,7.58,7.87,10.2,yellow-green,"October 24th, 2023"
-144,144,Honduras,273,Cafe Organico Marcala S.A de C.V.,275,69 kg,Eliud Hernandez Gonzales,Catuai,Washed / Wet,7.67,7.58,7.50,7.50,7.58,7.50,10.00,7.50,7.85,10,green,"April 23rd, 2024"
-145,145,Thailand,GAYO 21/22 (Coffea Arabica),Doi Tung Development Project,2,1 kg,Doi Tung Development Project,Gayo,Washed / Wet,7.17,7.92,7.58,7.50,7.58,7.67,10.00,7.42,7.86,11.8,yellow-green,"July 14th, 2023"
-146,146,Vietnam,VHA- S3,SIMEXCO DAKLAK LTD,22,60 kg,Simexco DakLak,Catimor,Pulped natural / honey,7.58,7.42,7.58,7.50,7.67,7.75,10.00,7.33,7.85,13.3,green,"June 3rd, 2023"
-147,147,Nicaragua,017-053-0017,Exportadora Atlantic S.A,275,69 kg,"Exportadora Atlantic, S.A.",SHG,Natural / Dry,7.33,7.58,7.25,7.33,7.75,8.17,10.00,7.33,7.84,10.5,green,"January 30th, 2024"
-148,148,Costa Rica,"The 2022 Pacific Rim Coffee Summit,CR01",Taiwan Coffee Laboratory,10,30 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,SL28,Pulped natural / honey,7.33,7.50,7.25,7.92,7.75,7.58,10.00,7.42,7.84,11.8,pale yellow,"November 15th, 2023"
-149,149,Colombia,3/01/12857,"NIPPON COFFEE TRADING CO.,LTD.",250,70 kg,Yukinobu Ueda,Caturra,Washed / Wet,7.58,7.67,7.58,7.50,7.33,7.50,10.00,7.50,7.83,11.8,green,"July 11th, 2023"
-150,150,Thailand,CATURRA 21/22 (Coffea Arabica),Doi Tung Development Project,2,1 kg,Doi Tung Development Project,Caturra,Washed / Wet,7.33,7.58,7.58,7.50,7.67,7.67,10.00,7.33,7.83,13,greenish,"July 14th, 2023"
-151,151,Thailand,21/22,Square Root,6,50 kg,Sajcha tawaytibhong,"Bourbon, Catimor, Caturra, Typica",Natural / Dry,7.50,7.58,7.50,7.42,7.50,7.58,10.00,7.58,7.83,11.2,yellow green,"June 14th, 2023"
-152,152,Honduras,197,CADEXSA,325,69 kg,CADEXSA,Catuai,Washed / Wet,7.67,7.58,7.33,7.50,7.58,7.50,10.00,7.50,7.83,9.6,green,"April 24th, 2024"
-153,153,Taiwan,A01-Northern Taiwan Specialty Coffee Evaluation,Taiwu Coffee Cooperative,1,4 kg,Taiwu,unknow,Natural / Dry,7.67,7.67,7.42,7.42,7.42,7.50,10.00,7.50,7.83,9.8,green,"January 6th, 2024"
-154,154,Taiwan,A22-Northern Taiwan Specialty Coffee Evaluation,Taiwu Coffee Cooperative,1,32 kg,Taiwu,Caturra,Washed / Wet,7.67,7.58,7.42,7.42,7.50,7.50,10.00,7.50,7.82,8.4,blue-green,"January 6th, 2024"
-155,155,Nicaragua,4 -3.1,NicaNoLA Coffee,120,45 kg,rene j alcebo,Parainema,Washed / Wet,7.50,7.58,7.42,7.58,7.50,7.58,10.00,7.42,7.82,10.1,green,"June 20th, 2023"
-156,156,El Salvador,ene-26,Consejo Salvadoreño del Café,600,30 kg,Consejo Salvadoreño del Café,Bourbon,Washed / Wet,7.67,7.33,7.17,7.67,7.83,7.50,10.00,7.33,7.81,11.3,green,"March 2nd, 2024"
-157,157,Panama,P03769,Panamerican Coffee Trading,200,30 kg,Rodrigo Soto,Caturra,Washed / Wet,7.75,7.67,7.17,7.67,7.42,7.42,10.00,7.42,7.82,10,green,"May 25th, 2023"
-158,158,Brazil,MVB-QCert-001/2022,Man Volcafe Brasil Ltda.,620,30 kg,ED&F Man Volcafe Brasil Ltda.,Mundo Novo,Natural / Dry,7.50,7.58,7.50,7.50,7.67,7.42,10.00,7.33,7.81,11.8,bluish-green,"November 3rd, 2023"
-159,159,United States (Hawaii),"The 2022 Pacific Rim Coffee Summit,US03",Taiwan Coffee Laboratory,4,15 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,Maragogype,Washed / Wet,7.33,7.58,7.50,7.50,7.50,7.58,10.00,7.50,7.81,11.7,blue-green,"November 15th, 2023"
-160,160,Mexico,"The 2022 Pacific Rim Coffee Summit,MX01",Taiwan Coffee Laboratory,10,15 kg,Full Sweet Coffee,Pacamara,Washed / Wet,7.67,7.42,7.50,7.50,7.67,7.42,10.00,7.33,7.81,10.7,pale yellow,"November 15th, 2023"
-161,161,Honduras,185,Mercon Honduras,345,30 kg,Comercial Internacional de Granos de Honduras SA de CV,Catuai,Washed / Wet,7.58,7.58,7.33,7.50,7.58,7.42,10.00,7.50,7.81,10.6,green,"May 23rd, 2023"
-162,162,Taiwan,A02-Northern Taiwan Specialty Coffee Evaluation,Taiwu Coffee Cooperative,1,200 kg,Taiwu,unknown,Washed / Wet,7.42,7.42,7.58,7.42,7.58,7.50,10.00,7.58,7.81,8.4,green,"January 6th, 2024"
-163,163,Nicaragua,1,Mr.Brown Cafe,275,69 kg,MR.BROWN CAFE,Caturra-Catuai,Washed / Wet,7.58,7.58,7.42,7.42,7.50,7.50,10.00,7.42,7.80,11.4,bluish-green,"December 30th, 2023"
-164,164,Vietnam,Apollo Washed 2021,"Sunvirtue Co., Ltd.",77,15 kg,"Sunvirtue Co., Ltd.",Catimor,Washed / Wet,7.50,7.50,7.33,7.50,7.50,7.42,10.00,7.58,7.79,10.5,bluish-green,"June 1st, 2023"
-165,165,El Salvador,ene-26,Consejo Salvadoreño del Café,600,30 kg,Consejo Salvadoreño del Café,Bourbon,Washed / Wet,7.50,7.50,7.42,7.42,7.42,7.67,10.00,7.42,7.79,12,green,"February 21st, 2024"
-166,166,El Salvador,ene-74,Consejo Salvadoreño del Café,275,69 kg,Consejo Salvadoreño del Café,Bourbon,Washed / Wet,7.33,7.67,7.25,7.67,7.83,7.42,10.00,7.17,7.79,11.8,bluish-green,"July 7th, 2023"
-167,167,Taiwan,A48-Northern Taiwan Specialty Coffee Evaluation,Taiwu Coffee Cooperative,1,5 kg,Taiwu,unknown,Natural / Dry,7.67,7.58,7.42,7.50,7.33,7.42,10.00,7.42,7.79,10.8,green,"January 6th, 2024"
-168,168,Peru,PR138,Itochu Corporation,275,69 kg,Kiichiro Iwata,Caturra,Washed / Wet,7.67,7.50,7.33,7.58,7.33,7.42,10.00,7.42,7.78,11.7,greenish,"July 11th, 2023"
-169,169,United States (Hawaii),Islander’s Coffee for Pacific Rim Summit,Taiwan Coffee Laboratory,3,30 kg,Taiwan Coffee Laboratory 台灣咖啡研究室,Typica,Washed / Wet,7.75,7.42,7.33,7.50,7.33,7.50,10.00,7.33,7.77,10.6,green,"November 9th, 2023"
-170,170,Kenya,CQU2023004,Coffee Quality Union,13,5 kg,Coffee Quality Union,"SL28,SL34,Ruiru11",Washed / Wet,7.50,7.50,7.42,7.50,7.25,7.50,10.00,7.50,7.77,11.2,green,"April 6th, 2024"
-171,171,Honduras,184,Mercon Honduras,125,69 kg,Comercial Internacional de Granos de Honduras SA de CV,Catuai,Washed / Wet,7.67,7.50,7.25,7.50,7.50,7.33,10.00,7.42,7.77,10.6,green,"May 23rd, 2023"
-172,172,Taiwan,A43-Northern Taiwan Specialty Coffee Evaluation,Taiwu Coffee Cooperative,1,3 kg,Taiwu,unknown,Washed / Wet,7.50,7.67,7.33,7.50,7.25,7.33,10.00,7.50,7.76,9.7,bluish-green,"January 6th, 2024"
-173,173,Taiwan,A34-Northern Taiwan Specialty Coffee Evaluation,Taiwu Coffee Cooperative,1,60 kg,Taiwu,unknown,Pulped natural / honey,7.33,7.42,7.42,7.50,7.42,7.50,10.00,7.50,7.76,8.1,greenish,"January 6th, 2024"
-174,174,Taiwan,A50-Northern Taiwan Specialty Coffee Evaluation,Taiwu Coffee Cooperative,1,20 kg,Taiwu,unknown,Washed / Wet,7.50,7.58,7.42,7.42,7.25,7.42,10.00,7.42,7.75,8.2,green,"January 6th, 2024"
-175,175,Thailand,MIXED DT 21/22 (Coffea Arabica),Doi Tung Development Project,2,1 kg,Doi Tung Development Project,Catimor,Washed / Wet,7.17,7.50,7.42,7.42,7.58,7.50,10.00,7.42,7.75,9.8,green,"July 14th, 2023"
-176,176,Costa Rica,S019194 - P04178,Beneficios Volcafé Costa Rica,500,30 kg,Volcafe Japan,Caturra,Washed / Wet,7.42,7.42,7.42,7.33,7.58,7.33,10.00,7.50,7.75,10.5,green,"March 28th, 2024"
-177,177,Guatemala,SA4238,Marubeni Corporation,275,69 kg,Ikuto Uehara,,Washed / Wet,7.42,7.42,7.42,7.33,7.50,7.42,10.00,7.50,7.75,11.5,blue-green,"November 28th, 2023"
-178,178,Indonesia,015/1686/057,InterAmerican Coffee,320,60 kg,Charles Umeano,,Pulped natural / honey,7.67,7.33,7.25,7.67,7.42,7.25,10.00,7.42,7.75,12.5,bluish-green,"August 22nd, 2023"
-179,179,Peru,301R,Itochu Corporation,275,69 kg,Kiichiro Iwata,Caturra,Washed / Wet,7.50,7.50,7.33,7.50,7.33,7.33,10.00,7.42,7.74,11.6,greenish,"July 11th, 2023"
-180,180,Guatemala,GF-23392,"HARU International Corp, 守成咖啡",540,30 kg,Anderson Wong,Caturra,Washed / Wet,7.33,7.42,7.33,7.42,7.58,7.42,10.00,7.42,7.74,10.3,greenish,"November 3rd, 2023"
-181,181,Taiwan,A10-Northern Taiwan Specialty Coffee Evaluation,Taiwu Coffee Cooperative,1,6 kg,Taiwu,Typica,Pulped natural / honey,7.25,7.42,7.42,7.50,7.42,7.42,10.00,7.42,7.73,11.3,green,"January 6th, 2024"
-182,182,Vietnam,221221,Brew Baby Coffee Company,1,1 kg,Rodney Murray,Catimor,Pulped natural / honey,7.50,7.50,7.25,7.42,7.42,7.42,10.00,7.33,7.73,11.2,green,"April 9th, 2024"
-183,183,Brazil,CQU2023007,Coffee Quality Union,14,5 kg,Coffee Quality Union,Yellow Catuai,Pulped natural / honey,7.50,7.50,7.42,7.33,7.33,7.33,10.00,7.42,7.73,11.3,pale yellow,"April 6th, 2024"
-184,184,Brazil,1,Mr.Brown Cafe,325,59 kg,MR.BROWN CAFE,Catucai,Natural / Dry,7.42,7.50,7.58,7.33,7.33,7.25,10.00,7.33,7.72,11.1,yellow-green,"December 30th, 2023"
-185,185,Colombia,1,Mr.Brown Cafe,275,70 kg,MR.BROWN CAFE,Santander,Washed / Wet,7.33,7.50,7.33,7.42,7.42,7.42,10.00,7.33,7.72,11.2,yellow-green,"December 30th, 2023"
-186,186,Mexico,2,La Villa Coffee Company LLC,32,69 kg,Alvin La Vaughn Landry,Typica,Washed / Wet,7.58,7.42,7.25,7.25,7.50,7.33,10.00,7.33,7.71,11.8,green,"August 11th, 2023"
-187,187,Costa Rica,OIC 5-019-0037/ Contenedor: DRYU3106597 / Cliente: O COFFEE,Grupo ECOM,100,69 kg,Ruddy Azofeifa,Caturra,Washed / Wet,7.33,7.42,7.25,7.42,7.42,7.33,10.00,7.42,7.70,9.7,green,"March 28th, 2024"
-188,188,Taiwan,A46-Northern Taiwan Specialty Coffee Evaluation,Taiwu Coffee Cooperative,1,100 kg,Taiwu,Typica,Pulped natural / honey,7.42,7.50,7.33,7.33,7.33,7.33,10.00,7.33,7.70,9,yellow-green,"January 6th, 2024"
-189,189,Taiwan,A38-Northern Taiwan Specialty Coffee Evaluation,Taiwu Coffee Cooperative,1,8 kg,Taiwu,unknown,Pulped natural / honey,7.33,7.50,7.42,7.33,7.33,7.25,10.00,7.33,7.69,8.5,green,"January 6th, 2024"
-190,190,Thailand,JAVA 21/22 (Coffea Arabica),Doi Tung Development Project,2,1 kg,Doi Tung Development Project,Java,Washed / Wet,7.33,7.42,7.25,7.33,7.50,7.42,10.00,7.17,7.68,11.6,green,"July 14th, 2023"
-191,191,Thailand,"The 2022 Pacific Rim Coffee Summit,TH07",Taiwan Coffee Laboratory,5,15 kg,Full Sweet Coffee,Typica Bourbon Caturra Catimor,Natural / Dry,7.42,7.25,7.33,7.42,7.33,7.33,10.00,7.25,7.67,10.5,yellowish,"November 15th, 2023"
-192,192,Thailand,MIXED 21/22 (Coffea Arabica),Doi Tung Development Project,2,1 kg,Doi Tung Development Project,Catimor,Washed / Wet,7.25,7.25,7.42,7.25,7.42,7.42,10.00,7.17,7.65,10.4,green,"July 14th, 2023"
-193,193,Colombia,CQU2022019,Coffee Quality Union,1,30 kg,Coffee Quality Union,"Caturra,Colombia,Castillo",Washed / Wet,7.42,7.25,7.25,7.42,7.17,7.33,10.00,7.33,7.65,11.4,greenish,"December 22nd, 2023"
-194,194,Brazil,38,Marubeni Corporation,440,60 kg,Ikuto Uehara,,Natural / Dry,7.42,7.42,7.25,7.25,7.17,7.25,10.00,7.25,7.63,10.6,greenish,"April 16th, 2024"
-195,195,El Salvador,0623C01,Aprentium Enterprises LLC,1,2 kg,Roselia Yglesias,Bourbon,Natural / Dry,7.42,7.33,7.33,7.50,7.08,7.00,10.00,7.17,7.60,10.5,bluish-green,"March 7th, 2024"
-196,196,Nicaragua,017/053/0603,ISHIMITSU,275,69 kg,丸山花織,Caturra,Washed / Wet,7.25,7.25,7.17,7.33,7.08,7.25,10.00,7.17,7.56,11.5,greenish,"July 11th, 2023"
-197,197,Nicaragua,1,SAJONIA ESTATE COFFEE S.A.,275,69 kg,SAJONIA ESTATE COFFEE S.A.,Sarchimor,Washed / Wet,7.42,7.17,7.00,7.08,7.42,7.17,10.00,7.17,7.55,11.2,green,"April 19th, 2024"
-198,198,Colombia,CQU2023001,Coffee Quality Union,3,10 kg,Coffee Quality Union,"Castillo,Caturra,Bourbon",Washed / Wet,7.25,7.25,7.17,7.33,7.00,7.17,10.00,7.25,7.55,11,greenish,"March 5th, 2024"
-199,199,Peru,PR137,Itochu Corporation,275,69 kg,Kiichiro Iwata,Caturra,Washed / Wet,7.50,7.25,7.17,7.17,7.17,7.08,10.00,7.00,7.54,11.8,greenish,"June 10th, 2023"
-200,200,El Salvador,0523B01,Aprentium Enterprises LLC,1,2 kg,Roselia Yglesias,Pacas,Natural / Dry,7.08,7.25,7.08,7.42,7.42,7.08,10.00,7.00,7.54,11.5,bluish-green,"March 7th, 2024"
-201,201,Brazil,002/1738/0029,marubeni,440,60 kg,Ikuto Uehara,Catuai and Mundo Novo,Natural / Dry,7.25,7.17,7.17,7.08,7.17,7.17,10.00,7.17,7.52,11.6,greenish,"July 20th, 2023"
-202,202,Brazil,019/22,Ipanema Coffees,2240,60 kg,Ipanema Coffees,Mundo Novo,Natural / Dry,7.17,7.17,6.92,7.17,7.42,7.17,10.00,7.08,7.51,11.4,green,"February 2nd, 2024"
-203,203,Nicaragua,017-053-0155,Exportadora Atlantic S.A,300,30 kg,"Exportadora Atlantic, S.A.",SHG,Natural / Dry,7.33,7.08,6.75,7.17,7.42,7.17,10.00,7.08,7.50,10.4,green,"March 2nd, 2024"
-204,204,Laos,105/3/VL7285-005,Marubeni Corporation,343,60 kg,Ikuto Uehara,Catimor,Washed / Wet,7.25,7.17,7.08,7.00,7.08,7.08,10.00,7.00,7.46,11.6,green,"November 11th, 2023"
-205,205,El Salvador,0423A01,Aprentium Enterprises LLC,1,2 kg,Roselia Yglesias,Maragogype,Natural / Dry,6.50,6.75,6.75,7.17,7.08,7.00,10.00,6.83,7.26,11,bluish-green,"March 7th, 2024"
-206,206,Brazil,1058 y 1059,Descafeinadores Mexicano SA. de CV,600,60 kg,Descafeinadores Mexicanos S.A de C.V,Mundo Novo,SEMI-LAVADO,7.25,7.08,6.67,6.83,6.83,6.67,10.00,6.67,7.25,11.3,green,"November 18th, 2023"
+ID,Country of Origin,Company,Number of Bags,Bag Weight,Variety,Color,Processing Method,Aroma,Flavor,Aftertaste,Acidity,Body,Balance,Uniformity,Overall,Average points,Moisture Percentage,Expiration,,
+0,Colombia,Coffee Quality Union,1,35 kg,Castillo,green,Double Anaerobic Washed,8.58,8.5,8.42,8.58,8.25,8.42,10,8.58,8.67,11.8,"September 21st, 2023",,
+1,Taiwan,Taiwan Coffee Laboratory,1,80 kg,Gesha,blue-green,Washed / Wet,8.5,8.5,7.92,8,7.92,8.25,10,8.5,8.45,10.5,"November 15th, 2023",,
+2,Laos,Taiwan Coffee Laboratory,19,25 kg,Java,yellowish,Semi Washed,8.33,8.42,8.08,8.17,7.92,8.17,10,8.33,8.43,10.4,"November 15th, 2023",, 
+3,Costa Rica,Coffee Quality Union,1,22 kg,Gesha,green,Washed / Wet,8.08,8.17,8.17,8.25,8.17,8.08,10,8.25,8.4,11.8,"September 21st, 2023",,
+4,Colombia,Coffee Quality Union,2,24 kg,Red Bourbon,yellow-green,"Honey,Mossto",8.33,8.33,8.08,8.25,7.92,7.92,10,8.25,8.39,11.6,"March 5th, 2024",,
+5,Guatemala,Taiwan Coffee Laboratory,5,30 kg,Gesha,green,Washed / Wet,8.33,8.33,8.25,7.83,7.83,8.17,10,8.25,8.37,10.7,"November 15th, 2023",,
+6,Taiwan,Taiwan Coffee Laboratory,1,27 kg,Gesha,green,Washed / Wet,8.33,8.17,8.08,8,7.83,8.25,10,8.25,8.36,9.1,"November 15th, 2023",,
+7,Taiwan,Taiwan Coffee Laboratory,1,90 kg,Sl34+Gesha,yellow green,Natural / Dry,8.25,8.25,8.17,8,7.92,8.08,10,8.08,8.34,10,"November 15th, 2023",,
+8,Taiwan,Taiwan Coffee Laboratory,1,30 kg,SL34,greenish,Washed / Wet,8.08,8.08,8.25,8.08,7.92,8,10,8.25,8.33,10.8,"November 15th, 2023",,
+9,"Tanzania, United Republic Of",DORMAN (T) LIMITED,320,60 kg,Bourbon,greenish,Washed / Wet,8.08,8.17,8.08,8.17,8,8,10,8,8.31,11,"February 1st, 2024",,
+10,Ethiopia,"Marubeni corp.,",10,30 kg,Ethiopian Heirlooms,greenish,Natural / Dry,8.08,8.25,8,8.08,7.92,7.92,10,8,8.28,11.8,"May 31st, 2023",,
+11,Guatemala,Taiwan Coffee Laboratory,5,15 kg,Gesha,brownish,Natural / Dry,8.08,8,8,7.75,8.25,8.17,10,8,8.28,11.5,"November 15th, 2023",,
+12,Taiwan,Taiwan Coffee Laboratory,1,60 kg,Gesha,green,Washed / Wet,8.08,8,8.08,8.08,8,8,10,8,8.28,11.9,"November 15th, 2023",,
+13,Ethiopia,Kerchanshe Trading PLC,40,60 kg,Gesha,yellow- green,Natural / Dry,7.67,8.17,8,8.33,8,8,10,8,8.27,11.6,"August 26th, 2023",,
+14,Colombia,Taiwan Coffee Laboratory,70,35 kg,Caturra,green,Washed / Wet,8.08,8,8.08,7.92,8.08,8,10,8,8.27,10.6,"November 15th, 2023",,
+15,Taiwan,Taiwan Coffee Laboratory,1,60 kg,SL34,green,Pulped natural / honey,8.17,8.08,8,7.92,8,7.92,10,8,8.26,10.2,"November 15th, 2023",,
+16,Ethiopia,Coffee Quality Union,8,5 kg,"Wolishalo,Kurume,Dega",green,Washed / Wet,8.17,8.08,7.92,8.17,7.75,7.92,10,8.08,8.26,11.3,"April 6th, 2024",,
+17,Taiwan,Dongbi coffee,5,2 kg,Gesha,yellow-green,Natural / Dry,8,8.17,8,7.92,7.92,7.92,10,8.17,8.26,10.3,"October 24th, 2023",,
+18,Taiwan,宸嶧國際有限公司,8,1 kg,Gesha,brownish,Natural / Dry,8.08,8.17,7.75,7.92,7.83,8,10,8.17,8.24,11,"October 24th, 2023",,
+19,"Tanzania, United Republic Of",DORMAN (T) LIMITED,200,30 kg,Bourbon,greenish,Washed / Wet,8.17,8,7.92,7.92,8.17,7.75,10,7.92,8.23,10,"February 1st, 2024",,
+20,Guatemala,Taiwan Coffee Laboratory,8,30 kg,Gesha,yellowish,Natural / Dry,8,7.92,8.08,7.92,7.75,8,10,8.08,8.22,11.6,"November 15th, 2023",,
+21,Taiwan,Taiwan Coffee Laboratory,1,20 kg,Typica,green,Natural / Dry,8.08,8,7.92,7.92,8,7.83,10,7.92,8.21,10.4,"December 12th, 2023",,
+22,Thailand,Lyrose,2,1 kg,Catimor,browish-green,Pulped natural / honey,7.67,8,7.83,8,8.08,8,10,8.08,8.21,9.8,"August 16th, 2023",,
+23,Colombia,Coffee Quality Union,6,5 kg,Castillo Paraguaycito,brownish,,8.08,8,7.83,8.17,7.75,7.83,10,8,8.21,11.3,"April 6th, 2024",,
+24,Taiwan,Taiwan Coffee Laboratory,4,50 kg,SL34,bluish-green,Washed / Wet,7.83,8,7.92,8,8,7.92,10,7.92,8.2,10.6,"November 15th, 2023",,
+25,Brazil,"WIT wealth, investments & trust",25,60 kg,,green,Pulped natural / honey,7.83,8.08,7.83,7.92,8,7.83,10,8,8.19,11.3,"January 6th, 2024",,
+26,Taiwan,Taiwan Coffee Laboratory,1,100 kg,Gesha,green,Natural / Dry,7.92,7.92,8,7.92,7.83,7.92,10,8,8.19,9.1,"November 15th, 2023",,
+27,Taiwan,Taiwan Coffee Laboratory,1,90 kg,Gesha,green,Natural / Dry,8.17,8.08,7.92,8,7.58,7.83,10,7.92,8.19,10.6,"November 15th, 2023",,
+28,Taiwan,Taiwan Coffee Laboratory,1,85 kg,Gesha,blue-green,Natural / Dry,8,8,8,7.92,7.75,7.92,10,7.92,8.19,10.2,"November 15th, 2023",,
+29,United States (Hawaii),Taiwan Coffee Laboratory,80,15 kg,Typica,green,Washed / Wet,8,7.92,8,7.83,7.67,8,10,8,8.18,9.3,"November 15th, 2023",,
+30,Taiwan,Taiwan Coffee Laboratory,3,48 kg,Typica,bluish-green,Washed / Wet,8,8,7.83,7.83,7.75,7.92,10,8.08,8.18,11.4,"December 12th, 2023",,
+31,Taiwan,Taiwan Coffee Laboratory,3,50 kg,Typica,green,Washed / Wet,7.92,8,7.83,7.92,7.83,7.83,10,8,8.17,10.8,"December 12th, 2023",,
+32,Taiwan,Taiwan Coffee Laboratory,4,5 kg,Gesha,green,Washed / Wet,8.08,8.17,7.67,7.83,7.67,7.92,10,8,8.17,11.3,"June 8th, 2023",,
+33,Ethiopia,Alo Coffee,320,60 kg,Ethiopian Heirlooms,green,Washed / Wet,7.67,7.83,7.83,8,8,8,10,8,8.17,9.9,"June 6th, 2023",,
+34,Ethiopia,TADESSE DESTA IMPORT & EXPORT,320,60 kg,Ethiopian Heirlooms,yellow green,Natural / Dry,8,8.08,8,8,7.67,7.75,10,7.83,8.17,12.3,"September 30th, 2023",,
+35,Ethiopia,yhaenu plc,320,19200 kg,Ethiopian Heirlooms,greenish,Washed / Wet,7.92,7.75,7.83,8.17,8,7.75,10,7.83,8.16,9.4,"December 12th, 2023",,
+36,Taiwan,Taiwan Coffee Laboratory,1,100 kg,Gesha,bluish-green,Washed / Wet,8,7.92,7.83,7.92,7.83,7.83,10,7.92,8.16,9.5,"November 15th, 2023",,
+37,Taiwan,Taiwan Coffee Laboratory,20,5 kg,Gesha,green,Pulped natural / honey,8.25,8.08,7.83,7.75,7.67,7.75,10,7.92,8.16,11.3,"June 8th, 2023",,
+38,Kenya,IBERO (K) LTD,300,60 kg,SL28,greenish,Washed / Wet,8.17,7.75,7.83,7.58,7.92,8,10,8,8.16,9.2,"February 28th, 2024",,
+39,Taiwan,宸嶧國際有限公司,20,1 kg,Gesha,bluish-green,Washed / Wet,7.75,7.92,7.75,8,7.83,7.92,10,8,8.15,10.3,"October 24th, 2023",,
+40,Taiwan,Taiwan Coffee Laboratory,1,10 kg,Typica,brownish,Natural / Dry,8,7.92,7.83,7.92,7.75,7.75,10,7.92,8.14,10,"December 12th, 2023",,
+41,Taiwan,茂泰生技股份有限公司,1,2 kg,Typica,greenish,Washed / Wet,8,8.08,7.67,7.75,7.92,7.83,10,7.83,8.14,10.5,"December 30th, 2023",,
+42,Taiwan,Taiwu Coffee Cooperative,1,50 kg,Gesha,pale yellow,Washed / Wet,8,7.92,7.67,8,7.75,7.83,10,7.92,8.14,10,"January 6th, 2024",,
+43,Uganda,Kyagalanyi Coffee Limited,320,60 kg,SL14,green,Washed / Wet,8,7.92,7.75,7.75,7.75,7.92,10,7.92,8.13,11,"June 29th, 2023",,
+44,Taiwan,Taiwan Coffee Laboratory,1,50 kg,Typica,green,,7.92,8,7.92,8,7.58,7.75,10,7.83,8.13,10.9,"December 12th, 2023",,
+45,Taiwan,Taiwan Coffee Laboratory,6,50 kg,Gesha,yellow green,Natural / Dry,8.17,8.08,7.83,7.67,7.67,7.75,10,7.83,8.13,10.1,"November 15th, 2023",,
+46,Guatemala,"Peter Schoenfeld, S.A.",600,30 kg,Caturra,green,Washed / Wet,7.67,8.08,7.67,8,7.92,7.83,10,7.83,8.13,9.9,"April 16th, 2024",,
+47,Guatemala,"OLAM AGRO GUATEMALA, S.A.",632,30 kg,Catuai,green,Washed / Wet,7.67,8,7.75,7.92,8,7.83,10,7.83,8.13,11.3,"February 23rd, 2024",,
+48,Guatemala,"inmobiliaria e inversiones dos mil, s.a.",275,69 kg,Caturra,green,Washed / Wet,7.83,7.92,7.75,8,7.75,7.75,10,7.92,8.12,11.7,"June 22nd, 2023",,
+49,Taiwan,Taiwu Coffee Cooperative,1,13 kg,Typica,green,Washed / Wet,7.92,7.92,7.83,7.83,7.75,7.83,10,7.83,8.11,9.5,"January 6th, 2024",,
+50,Taiwan,Taiwu Coffee Cooperative,1,4 kg,Yellow Bourbon,brownish,Natural / Dry,8,8,7.75,7.75,7.67,7.75,10,7.92,8.11,9.7,"January 6th, 2024",,
+51,Indonesia,InterAmerican Coffee,320,60 kg,Catimor,bluish-green,,7.83,7.92,7.75,7.83,7.83,7.83,10,7.83,8.1,11.9,"September 23rd, 2023",,
+52,Peru,Taiwan Coffee Laboratory,3,5 kg,Gesha,greenish,Washed / Wet,8,8,7.83,7.83,7.58,7.83,10,7.75,8.1,10.7,"November 15th, 2023",,
+53,"Tanzania, United Republic Of",VOLCAFE/TaylorWinch Tanzania Ltd,620,30 kg,Bourbon,greenish,Washed / Wet,7.92,7.75,7.75,7.92,7.83,7.83,10,7.83,8.1,11.2,"November 9th, 2023",,
+54,Taiwan,Taiwan Coffee Laboratory,1,25 kg,SL34,greenish,Natural / Dry,7.83,7.83,7.67,7.67,7.83,8,10,8,8.1,9.5,"November 15th, 2023",,
+55,Taiwan,Taiwan Coffee Laboratory,1,30 kg,SL34,green,Washed / Wet,7.67,7.92,7.92,7.83,7.75,7.83,10,7.83,8.09,10.4,"November 15th, 2023",,
+56,Brazil,Mirai Seeds Corp.,5,36 kg,Yellow Bourbon,green,Double Carbonic Maceration / Natural,7.83,7.92,7.75,7.92,7.67,7.83,10,7.83,8.09,11.2,"February 13th, 2024",,
+57,Panama,Panamerican Coffee Trading,200,30 kg,Catuai,bluish-green,Washed / Wet,7.83,7.83,7.75,7.92,7.83,7.75,10,7.83,8.09,10.3,"April 25th, 2024",,
+58,Taiwan,茂泰生技股份有限公司,1,2 kg,Yellow Bourbon,blue-green,Pulped natural / honey,7.92,8.08,7.67,7.92,7.67,7.75,10,7.75,8.1,10,"December 30th, 2023",,
+59,Guatemala,"Peter Schoenfeld, S.A.",600,30 kg,Caturra,green,Washed / Wet,7.67,8,7.67,7.83,7.92,7.67,10,7.92,8.09,10.6,"April 27th, 2024",,
+60,Guatemala,"VALBROS, S. A.",66,30 kg,Bourbon,yellow-green,Natural / Dry,7.83,8,7.67,7.83,7.75,7.75,10,7.83,8.08,10.9,"May 19th, 2023",,
+61,Costa Rica,CECA S.A.,260,69 kg,Caturra,green,Washed / Wet,7.58,7.83,7.5,7.67,7.83,7.67,10,8.58,8.08,10,"April 18th, 2024",,
+62,Taiwan,Taiwu Coffee Cooperative,1,16 kg,Typica,greenish,Pulped natural / honey,7.83,7.83,7.75,7.75,7.75,7.75,10,7.92,8.07,9.6,"January 6th, 2024",,
+63,Taiwan,Taiwan Coffee Laboratory,16,5 kg,Gesha,green,Pulped natural / honey,8.17,7.83,7.67,7.83,7.67,7.67,10,7.75,8.07,11.5,"June 8th, 2023",,
+64,Nicaragua,NicaNoLA Coffee,74,45 kg,Catrenic,green,Natural / Dry,7.92,7.75,7.67,7.67,7.83,7.75,10,8,8.07,9.9,"June 9th, 2023",,
+65,Taiwan,Taiwan Coffee Laboratory,1,80 kg,Gesha,green,Washed / Wet,8.08,7.83,7.67,7.67,7.67,7.75,10,7.92,8.07,11.2,"November 15th, 2023",,
+66,Taiwan,Taiwan Coffee Laboratory,1,104 kg,SL34,green,Natural / Dry,7.83,8,7.67,7.75,7.67,7.75,10,7.92,8.07,10.3,"November 15th, 2023",,
+67,Vietnam,Taiwan Coffee Laboratory,3,5 kg,Catimor,brownish,Natural / Dry,8,7.83,7.75,7.67,7.58,7.83,10,7.92,8.07,11.6,"November 15th, 2023",,
+68,Costa Rica,Coffee Quality Union,1,22 kg,Gesha,green,Washed / Wet,7.75,7.83,7.67,7.83,7.75,7.75,10,7.92,8.06,11.7,"October 4th, 2023",,
+69,Taiwan,Taiwu Coffee Cooperative,1,300 kg,unknown,bluish-green,Pulped natural / honey,7.75,7.92,7.83,7.75,7.75,7.75,10,7.75,8.06,11.3,"January 6th, 2024",,
+70,Honduras,Mercon Honduras,340,69 kg,Catuai,green,Washed / Wet,7.83,7.92,7.75,7.75,7.75,7.75,10,7.75,8.06,9.8,"April 24th, 2024",,
+71,Ethiopia,Tracon Trading PLC,584,30 kg,Ethiopian Heirlooms,green,Washed / Wet,7.92,7.83,7.75,7.92,7.58,7.67,10,7.83,8.06,10.9,"August 23rd, 2023",,
+72,Taiwan,Taiwan Coffee Laboratory,1,20 kg,Typica,green,Natural / Dry,8.08,7.92,7.75,7.83,7.5,7.58,10,7.83,8.06,10.2,"December 12th, 2023",,
+73,Taiwan,Taiwan Coffee Laboratory,1,100 kg,Gesha,bluish-green,Washed / Wet,7.83,8,7.5,7.75,7.75,7.75,10,7.83,8.05,10.1,"November 15th, 2023",,
+74,Guatemala,"Retrillas del pacifico, s.a.",600,30 kg,Bourbon,green,Washed / Wet,7.67,7.83,7.75,7.75,7.83,7.75,10,7.75,8.04,9.2,"April 25th, 2024",,
+75,United States (Hawaii),Taiwan Coffee Laboratory,10,10 kg,Catuai,yellow-green,Washed / Wet,7.92,7.83,7.75,7.92,7.5,7.67,10,7.75,8.04,10.1,"November 9th, 2023",,
+76,Ethiopia,Tadesse Desta import export,320,60 kg,Ethiopian Heirlooms,yellow green,Natural / Dry,7.83,7.75,7.58,7.92,8,7.5,10,7.75,8.04,11,"September 19th, 2023",,
+77,El Salvador,Taiwan Coffee Laboratory,20,30 kg,Pacamara,brownish,Pulped natural / honey,7.83,7.83,7.83,7.83,7.67,7.67,10,7.67,8.04,10.3,"November 15th, 2023",,
+78,Colombia,Sucafina NA,275,70 kg,Castillo and Colombia blend,green,Washed / Wet,7.75,7.75,7.75,7.75,7.83,7.67,10,7.83,8.04,11.6,"May 11th, 2023",,
+79,Indonesia,Coffee Quality Union,1,60 kg,"Jember,TIM-TIM,Ateng",blue-green,Wet Hulling,7.67,7.67,7.83,7.83,7.67,7.75,10,7.83,8.03,11.5,"September 21st, 2023",,
+80,Guatemala,"Peter Schoenfeld, S.A.",55,30 kg,Typica,green,Washed / Wet,7.58,7.92,7.67,7.75,7.83,7.75,10,7.75,8.03,10,"April 16th, 2024",,
+81,Madagascar,Vao Vao Sarl,5,60 kg,Bourbon,blue-green,Washed / Wet,7.92,7.92,7.58,7.75,7.58,7.67,10,7.83,8.03,12.1,"December 12th, 2023",,
+82,Honduras,Mercon Honduras,345,30 kg,Catuai,green,Washed / Wet,7.75,7.75,7.58,7.83,7.75,7.75,10,7.75,8.02,10.2,"April 24th, 2024",,
+83,Guatemala,"inmobiliaria e inversiones dos mil, s.a.",275,69 kg,Caturra,green,Washed / Wet,7.58,7.92,7.58,7.83,7.75,7.67,10,7.75,8.01,11,"May 19th, 2023",,
+84,Taiwan,Taiwu Coffee Cooperative,1,110 kg,unknown,greenish,Pulped natural / honey,7.83,7.92,7.83,7.58,7.58,7.67,10,7.67,8.01,10.8,"January 6th, 2024",,
+85,Taiwan,Taiwan Coffee Laboratory,1,80 kg,Gesha,yello-green,Natural / Dry,7.92,7.75,7.67,7.75,7.75,8,9.33,7.92,8.01,10.6,"November 15th, 2023",,
+86,Guatemala,"Peter Schoenfeld, S.A.",430,30 kg,Caturra,green,Washed / Wet,7.67,7.83,7.67,7.83,7.75,7.67,10,7.67,8.01,11,"March 21st, 2024",,
+87,Guatemala,"Peter Schoenfeld, S.A.",200,30 kg,Caturra,green,Washed / Wet,7.67,7.92,7.67,7.75,7.67,7.58,10,7.75,8,11,"March 21st, 2024",,
+88,Honduras,Taiwan Coffee Laboratory,16,30 kg,Typica,green,Pulped natural / honey,7.75,7.75,7.75,7.67,7.75,7.67,10,7.67,8,9.4,"November 15th, 2023",,
+89,"Tanzania, United Republic Of",C.DORMAN SEZ LTD,200,60 kg,Bourbon,greenish,Washed / Wet,7.58,7.67,7.75,7.75,7.75,7.75,10,7.75,8,9.8,"January 3rd, 2024",,
+90,Ethiopia,Descafeinadores Mexicano SA. de CV,300,60 kg,Ethiopian Heirlooms,green,Washed / Wet,8,7.75,7.5,7.67,7.67,7.67,10,7.75,8,11.3,"November 18th, 2023",,
+91,"Tanzania, United Republic Of",DORMAN (T) LTD,320,60 kg,Bourbon,greenish,Washed / Wet,7.75,7.58,7.58,7.92,7.67,7.75,10,7.75,8,11.6,"November 21st, 2023",,
+92,Colombia,InterAmerican Coffee,275,70 kg,Caturra,green,Washed / Wet,7.67,7.83,7.58,7.92,7.67,7.67,10,7.67,8,13.3,"July 27th, 2023",,
+93,Costa Rica,CECA S.A.,250,35 kg,Caturra,green,Washed / Wet,7.67,7.92,7.58,7.75,7.67,7.58,10,7.75,7.99,9.5,"April 18th, 2024",,
+94,Guatemala,Taiwan Coffee Laboratory,1,15 kg,Gesha,greenish,Natural / Dry,7.83,7.83,7.58,7.67,7.67,7.58,10,7.75,7.99,11.9,"November 15th, 2023",,
+95,Guatemala,"Peter Schoenfeld, S.A.",35,30 kg,Bourbon,green,Washed / Wet,7.58,7.83,7.58,7.75,7.67,7.75,10,7.75,7.99,10,"April 16th, 2024",,
+96,Thailand,Coffee Quality Union,1,30 kg,Catimor,yellowish,Natural / Dry,7.75,7.67,7.58,7.75,7.75,7.67,10,7.75,7.99,11.6,"September 21st, 2023",,
+97,Colombia,Marubeni Corporation,375,70 kg,,green,Washed / Wet,7.67,7.75,7.67,7.75,7.67,7.67,10,7.67,7.98,11.9,"April 16th, 2024",,
+98,Guatemala,"RETRILLAS DEL PACIFICO, S. A.",600,30 kg,"BOURBON, CATURRA Y CATIMOR",green,Natural / Dry,7.58,7.83,7.67,7.67,7.67,7.67,10,7.75,7.98,10.8,"May 13th, 2023",,
+99,Guatemala,Asociación Nacional del Cafe,635,30 kg,Bourbon,greenish,Washed / Wet,7.58,7.92,7.5,7.67,7.75,7.67,10,7.75,7.98,10.9,"May 19th, 2023",,
+100,Ethiopia,Taylor Winch Coffee Ltd,100,60 kg,Ethiopian Heirlooms,green,Washed / Wet,7.83,7.67,7.5,7.92,7.5,7.67,10,7.75,7.98,12,"September 9th, 2023",,
+101,Colombia,ECOM COLOMBIA,285,70 kg,Caturra,green,Washed / Wet,7.92,7.75,7.42,7.58,7.92,7.67,10,7.58,7.98,12.1,"February 22nd, 2024",,
+102,United States (Hawaii),Taiwan Coffee Laboratory,4,15 kg,Typica,green,Washed / Wet,7.67,7.92,7.58,7.58,7.58,7.75,10,7.75,7.98,11.8,"November 15th, 2023",,
+103,Colombia,Taiwan Coffee Laboratory,40,35 kg,Bourbon Sidra,greenish,Pulped natural / honey,7.67,7.92,7.67,7.58,7.67,7.67,10,7.58,7.97,10.6,"November 15th, 2023",,
+104,Mexico,Exportadora Café California,600,30 kg,Sarchimor,green,Washed / Wet,7.67,7.67,7.58,7.67,7.83,7.58,10,7.75,7.97,11.7,"April 4th, 2024",,
+105,Colombia,Coffee Quality Institute,1,1 kg,,greenish,,7.83,7.75,7.5,7.58,7.67,7.67,10,7.67,7.96,12.4,"September 26th, 2023",,
+106,Taiwan,Yongshun,50,2 kg,SL34,bluish-green,Washed / Wet,7.67,7.67,7.75,7.75,7.5,7.67,10,7.67,7.96,10,"October 24th, 2023",,
+107,Myanmar,Taiwan Coffee Laboratory,100,30 kg,"Catimor,Catuai,Caturra,Bourbon",pale yellow,Natural / Dry,7.83,7.83,7.67,7.58,7.58,7.58,10,7.58,7.96,10.2,"November 15th, 2023",,
+108,Taiwan,Taiwu Coffee Cooperative,1,13 kg,unknown,greenish,Pulped natural / honey,7.58,7.75,7.67,7.83,7.5,7.67,10,7.67,7.96,9.2,"January 6th, 2024",,
+109,Honduras,Taiwan Coffee Laboratory,9,15 kg,Parainema,pale yellow,Natural / Dry,7.67,7.67,7.58,7.75,7.67,7.67,10,7.67,7.96,11.1,"November 15th, 2023",,
+110,Taiwan,Taiwu Coffee Cooperative,1,10 kg,unknown,green,Natural / Dry,7.58,7.67,7.5,7.75,7.75,7.67,10,7.67,7.95,8.4,"January 6th, 2024",,
+111,Taiwan,Taiwu Coffee Cooperative,1,10 kg,Typica,green,Pulped natural / honey,7.58,7.75,7.58,7.75,7.58,7.67,10,7.67,7.95,9.1,"January 6th, 2024",,
+112,Guatemala,Asociación Nacional del Cafe,275,69 kg,Caturra,green,Washed / Wet,7.58,7.83,7.58,7.67,7.58,7.58,10,7.75,7.95,10.9,"May 19th, 2023",,
+113,Honduras,Cafe Organico Marcala S.A de C.V.,260,69 kg,SHG,green,Washed / Wet,7.75,7.67,7.58,7.58,7.58,7.67,10,7.67,7.94,11.2,"August 17th, 2023",,
+114,Colombia,Cafe Colsuaves,600,30 kg,Caturra,bluish-green,Washed / Wet,7.75,7.75,7.5,7.58,7.83,7.5,10,7.58,7.94,12.2,"January 18th, 2024",,
+115,Thailand,Doi Tung Development Project,2,1 kg,Bourbon,green,Washed / Wet,7.42,7.83,7.58,7.67,7.67,7.75,10,7.58,7.94,13.1,"July 14th, 2023",,
+116,Ethiopia,yhaenu plc,320,19200 kg,Ethiopian Heirlooms,greenish,Washed / Wet,7.42,7.42,7.42,8,7.92,7.67,10,7.67,7.94,10.4,"November 30th, 2023",,
+117,Thailand,Coffee Quality Union,5,2 kg,Java,green,Washed / Wet,7.67,7.67,7.5,7.67,7.58,7.67,10,7.67,7.93,11.6,"June 16th, 2023",,
+118,Uganda,Kawacom uganda LTD,150,60 kg,SL14,green,Washed / Wet,7.75,7.75,7.5,7.5,7.58,7.58,10,7.75,7.93,10.1,"July 7th, 2023",,
+119,Taiwan,Taiwan Coffee Laboratory,1,40 kg,Typica + SL34,blue-green,Washed / Wet,7.75,7.92,7.67,7.92,7.75,7.83,8.67,7.92,7.93,10.1,"November 15th, 2023",,
+120,Uganda,Kyagalanyi Coffee Limited,320,60 kg,SL14,green,Washed / Wet,7.75,7.67,7.58,7.5,7.67,7.5,10,7.67,7.92,11.1,"September 1st, 2023",,
+121,Taiwan,Taiwu Coffee Cooperative,1,8 kg,Typica,greenish,Pulped natural / honey,7.58,7.67,7.5,7.75,7.5,7.58,10,7.75,7.92,9.7,"January 6th, 2024",,
+122,Guatemala,Mr.Brown Cafe,320,60 kg,"MARSELLESA, CATUAI, CATURRA & MARSELLESA, ANACAFE 14, CATUAI",green,Washed / Wet,7.5,7.75,7.58,7.75,7.67,7.58,10,7.5,7.92,11.4,"December 30th, 2023",,
+123,Taiwan,Taiwu Coffee Cooperative,1,80 kg,Typica,green,Washed / Wet,7.58,7.67,7.58,7.75,7.42,7.58,10,7.75,7.92,9.6,"January 6th, 2024",,
+124,Colombia,Minka coffee company LTD,2,1 kg,Caturra,greenish,Washed / Wet,7.67,7.67,7.42,7.75,7.5,7.75,10,7.58,7.92,13.5,"September 30th, 2023",,
+125,Costa Rica,CECA S.A.,320,69 kg,Caturra,green,Washed / Wet,7.58,7.75,7.42,7.67,7.5,7.75,10,7.67,7.92,0,"April 18th, 2024",,
+126,Taiwan,Taiwan Coffee Laboratory,1,100 kg,SL34,blue-green,Washed / Wet,7.75,7.83,7.58,7.58,7.58,7.5,10,7.5,7.92,10.7,"November 15th, 2023",,
+127,Thailand,Doi Tung Development Project,2,1 kg,Typica,yellow-green,Washed / Wet,7.92,7.92,7.75,7.33,7.58,7.5,10,7.33,7.92,12.3,"July 14th, 2023",,
+128,"Tanzania, United Republic Of",DORMAN TANZANIA LTD,320,60 kg,Bourbon,greenish,Washed / Wet,7.92,7.67,7.42,7.5,7.67,7.58,10,7.5,7.91,10.4,"January 3rd, 2024",,
+129,Brazil,Ipanema Coffees,960,60 kg,Mundo Novo,green,Natural / Dry,7.58,7.5,7.5,7.83,7.67,7.5,10,7.67,7.91,11.6,"February 13th, 2024",,
+130,Taiwan,Taiwu Coffee Cooperative,1,320 kg,unknown,green,Washed / Wet,7.75,7.75,7.58,7.67,7.42,7.5,10,7.58,7.91,9.6,"January 6th, 2024",,
+131,Colombia,Coffee Quality Union,2,12 kg,"Red Bourbon,Caturra",brownish,Anaerobico 1000h,7.67,7.67,7.58,7.67,7.58,7.58,10,7.5,7.91,10.9,"April 6th, 2024",,
+132,Honduras,Taiwan Coffee Laboratory,9,15 kg,Lempira,bluish-green,Washed / Wet,7.67,7.75,7.67,7.58,7.5,7.58,10,7.5,7.91,10.5,"November 15th, 2023",,
+133,Honduras,Cafe Organico Marcala S.A de C.V.,260,69 kg,Catuai,green,Washed / Wet,7.75,7.58,7.58,7.58,7.5,7.58,10,7.67,7.91,11.3,"August 17th, 2023",,
+134,Taiwan,Taiwu Coffee Cooperative,1,16 kg,Typica,greenish,Natural / Dry,7.75,7.75,7.5,7.75,7.5,7.42,10,7.5,7.9,9.7,"January 6th, 2024",,
+135,Taiwan,Taiwu Coffee Cooperative,1,100 kg,unknown,blue-green,Washed / Wet,7.67,7.67,7.5,7.58,7.58,7.5,10,7.67,7.9,11.8,"January 6th, 2024",,
+136,Laos,Dao Heuang Group,26,60 kg,Catimor,brownish,Natural / Dry,7.67,7.75,7.33,7.67,7.58,7.5,10,7.58,7.89,11.8,"December 30th, 2023",,
+137,Honduras,CIGRAH,250,69 kg,Catuai,green,Washed / Wet,7.67,7.67,7.5,7.58,7.58,7.5,10,7.58,7.89,10.6,"May 23rd, 2023",,
+138,Honduras,CADEXSA,325,69 kg,Catuai,green,Washed / Wet,7.75,7.58,7.58,7.58,7.58,7.5,10,7.5,7.88,9.6,"April 24th, 2024",,
+139,Colombia,carcafe ltda,600,30 kg,Caturra,bluish-green,Washed / Wet,8,7.67,7.42,7.58,7.58,7.42,10,7.33,7.88,13.1,"January 13th, 2024",,
+140,Taiwan,Taiwu Coffee Cooperative,1,12 kg,Typica,blue-green,Pulped natural / honey,7.5,7.67,7.58,7.58,7.5,7.5,10,7.58,7.86,8.9,"January 6th, 2024",,
+141,Mexico,La Villa Coffee Company LLC,141,69 kg,Bourbon,green,Washed / Wet,7.75,7.5,7.42,7.67,7.58,7.5,10,7.5,7.87,11.9,"August 11th, 2023",,
+142,Colombia,Coffee Quality Union,1,12 kg,Typica Gesha,greenish,Washed / Wet,7.58,7.5,7.5,7.67,7.58,7.5,10,7.58,7.86,11.5,"June 16th, 2023",,
+143,Taiwan,宸嶧國際有限公司,300,1 kg,Gesha,yellow-green,,7.67,7.5,7.42,7.75,7.42,7.58,10,7.58,7.87,10.2,"October 24th, 2023",,
+144,Honduras,Cafe Organico Marcala S.A de C.V.,275,69 kg,Catuai,green,Washed / Wet,7.67,7.58,7.5,7.5,7.58,7.5,10,7.5,7.85,10,"April 23rd, 2024",,
+145,Thailand,Doi Tung Development Project,2,1 kg,Gayo,yellow-green,Washed / Wet,7.17,7.92,7.58,7.5,7.58,7.67,10,7.42,7.86,11.8,"July 14th, 2023",,
+146,Vietnam,SIMEXCO DAKLAK LTD,22,60 kg,Catimor,green,Pulped natural / honey,7.58,7.42,7.58,7.5,7.67,7.75,10,7.33,7.85,13.3,"June 3rd, 2023",,
+147,Nicaragua,Exportadora Atlantic S.A,275,69 kg,SHG,green,Natural / Dry,7.33,7.58,7.25,7.33,7.75,8.17,10,7.33,7.84,10.5,"January 30th, 2024",,
+148,Costa Rica,Taiwan Coffee Laboratory,10,30 kg,SL28,pale yellow,Pulped natural / honey,7.33,7.5,7.25,7.92,7.75,7.58,10,7.42,7.84,11.8,"November 15th, 2023",,
+149,Colombia,"NIPPON COFFEE TRADING CO.,LTD.",250,70 kg,Caturra,green,Washed / Wet,7.58,7.67,7.58,7.5,7.33,7.5,10,7.5,7.83,11.8,"July 11th, 2023",,
+150,Thailand,Doi Tung Development Project,2,1 kg,Caturra,greenish,Washed / Wet,7.33,7.58,7.58,7.5,7.67,7.67,10,7.33,7.83,13,"July 14th, 2023",,
+151,Thailand,Square Root,6,50 kg,"Bourbon, Catimor, Caturra, Typica",yellow green,Natural / Dry,7.5,7.58,7.5,7.42,7.5,7.58,10,7.58,7.83,11.2,"June 14th, 2023",,
+152,Honduras,CADEXSA,325,69 kg,Catuai,green,Washed / Wet,7.67,7.58,7.33,7.5,7.58,7.5,10,7.5,7.83,9.6,"April 24th, 2024",,
+153,Taiwan,Taiwu Coffee Cooperative,1,4 kg,unknow,green,Natural / Dry,7.67,7.67,7.42,7.42,7.42,7.5,10,7.5,7.83,9.8,"January 6th, 2024",,
+154,Taiwan,Taiwu Coffee Cooperative,1,32 kg,Caturra,blue-green,Washed / Wet,7.67,7.58,7.42,7.42,7.5,7.5,10,7.5,7.82,8.4,"January 6th, 2024",,
+155,Nicaragua,NicaNoLA Coffee,120,45 kg,Parainema,green,Washed / Wet,7.5,7.58,7.42,7.58,7.5,7.58,10,7.42,7.82,10.1,"June 20th, 2023",,
+156,El Salvador,Consejo Salvadoreño del Café,600,30 kg,Bourbon,green,Washed / Wet,7.67,7.33,7.17,7.67,7.83,7.5,10,7.33,7.81,11.3,"March 2nd, 2024",,
+157,Panama,Panamerican Coffee Trading,200,30 kg,Caturra,green,Washed / Wet,7.75,7.67,7.17,7.67,7.42,7.42,10,7.42,7.82,10,"May 25th, 2023",,
+158,Brazil,Man Volcafe Brasil Ltda.,620,30 kg,Mundo Novo,bluish-green,Natural / Dry,7.5,7.58,7.5,7.5,7.67,7.42,10,7.33,7.81,11.8,"November 3rd, 2023",,
+159,United States (Hawaii),Taiwan Coffee Laboratory,4,15 kg,Maragogype,blue-green,Washed / Wet,7.33,7.58,7.5,7.5,7.5,7.58,10,7.5,7.81,11.7,"November 15th, 2023",,
+160,Mexico,Taiwan Coffee Laboratory,10,15 kg,Pacamara,pale yellow,Washed / Wet,7.67,7.42,7.5,7.5,7.67,7.42,10,7.33,7.81,10.7,"November 15th, 2023",,
+161,Honduras,Mercon Honduras,345,30 kg,Catuai,green,Washed / Wet,7.58,7.58,7.33,7.5,7.58,7.42,10,7.5,7.81,10.6,"May 23rd, 2023",,
+162,Taiwan,Taiwu Coffee Cooperative,1,200 kg,unknown,green,Washed / Wet,7.42,7.42,7.58,7.42,7.58,7.5,10,7.58,7.81,8.4,"January 6th, 2024",,
+163,Nicaragua,Mr.Brown Cafe,275,69 kg,Caturra-Catuai,bluish-green,Washed / Wet,7.58,7.58,7.42,7.42,7.5,7.5,10,7.42,7.8,11.4,"December 30th, 2023",,
+164,Vietnam,"Sunvirtue Co., Ltd.",77,15 kg,Catimor,bluish-green,Washed / Wet,7.5,7.5,7.33,7.5,7.5,7.42,10,7.58,7.79,10.5,"June 1st, 2023",,
+165,El Salvador,Consejo Salvadoreño del Café,600,30 kg,Bourbon,green,Washed / Wet,7.5,7.5,7.42,7.42,7.42,7.67,10,7.42,7.79,12,"February 21st, 2024",,
+166,El Salvador,Consejo Salvadoreño del Café,275,69 kg,Bourbon,bluish-green,Washed / Wet,7.33,7.67,7.25,7.67,7.83,7.42,10,7.17,7.79,11.8,"July 7th, 2023",,
+167,Taiwan,Taiwu Coffee Cooperative,1,5 kg,unknown,green,Natural / Dry,7.67,7.58,7.42,7.5,7.33,7.42,10,7.42,7.79,10.8,"January 6th, 2024",,
+168,Peru,Itochu Corporation,275,69 kg,Caturra,greenish,Washed / Wet,7.67,7.5,7.33,7.58,7.33,7.42,10,7.42,7.78,11.7,"July 11th, 2023",,
+169,United States (Hawaii),Taiwan Coffee Laboratory,3,30 kg,Typica,green,Washed / Wet,7.75,7.42,7.33,7.5,7.33,7.5,10,7.33,7.77,10.6,"November 9th, 2023",,
+170,Kenya,Coffee Quality Union,13,5 kg,"SL28,SL34,Ruiru11",green,Washed / Wet,7.5,7.5,7.42,7.5,7.25,7.5,10,7.5,7.77,11.2,"April 6th, 2024",,
+171,Honduras,Mercon Honduras,125,69 kg,Catuai,green,Washed / Wet,7.67,7.5,7.25,7.5,7.5,7.33,10,7.42,7.77,10.6,"May 23rd, 2023",,
+172,Taiwan,Taiwu Coffee Cooperative,1,3 kg,unknown,bluish-green,Washed / Wet,7.5,7.67,7.33,7.5,7.25,7.33,10,7.5,7.76,9.7,"January 6th, 2024",,
+173,Taiwan,Taiwu Coffee Cooperative,1,60 kg,unknown,greenish,Pulped natural / honey,7.33,7.42,7.42,7.5,7.42,7.5,10,7.5,7.76,8.1,"January 6th, 2024",,
+174,Taiwan,Taiwu Coffee Cooperative,1,20 kg,unknown,green,Washed / Wet,7.5,7.58,7.42,7.42,7.25,7.42,10,7.42,7.75,8.2,"January 6th, 2024",,
+175,Thailand,Doi Tung Development Project,2,1 kg,Catimor,green,Washed / Wet,7.17,7.5,7.42,7.42,7.58,7.5,10,7.42,7.75,9.8,"July 14th, 2023",,
+176,Costa Rica,Beneficios Volcafé Costa Rica,500,30 kg,Caturra,green,Washed / Wet,7.42,7.42,7.42,7.33,7.58,7.33,10,7.5,7.75,10.5,"March 28th, 2024",,
+177,Guatemala,Marubeni Corporation,275,69 kg,,blue-green,Washed / Wet,7.42,7.42,7.42,7.33,7.5,7.42,10,7.5,7.75,11.5,"November 28th, 2023",,
+178,Indonesia,InterAmerican Coffee,320,60 kg,,bluish-green,Pulped natural / honey,7.67,7.33,7.25,7.67,7.42,7.25,10,7.42,7.75,12.5,"August 22nd, 2023",,
+179,Peru,Itochu Corporation,275,69 kg,Caturra,greenish,Washed / Wet,7.5,7.5,7.33,7.5,7.33,7.33,10,7.42,7.74,11.6,"July 11th, 2023",,
+180,Guatemala,"HARU International Corp, 守成咖啡",540,30 kg,Caturra,greenish,Washed / Wet,7.33,7.42,7.33,7.42,7.58,7.42,10,7.42,7.74,10.3,"November 3rd, 2023",,
+181,Taiwan,Taiwu Coffee Cooperative,1,6 kg,Typica,green,Pulped natural / honey,7.25,7.42,7.42,7.5,7.42,7.42,10,7.42,7.73,11.3,"January 6th, 2024",,
+182,Vietnam,Brew Baby Coffee Company,1,1 kg,Catimor,green,Pulped natural / honey,7.5,7.5,7.25,7.42,7.42,7.42,10,7.33,7.73,11.2,"April 9th, 2024",,
+183,Brazil,Coffee Quality Union,14,5 kg,Yellow Catuai,pale yellow,Pulped natural / honey,7.5,7.5,7.42,7.33,7.33,7.33,10,7.42,7.73,11.3,"April 6th, 2024",,
+184,Brazil,Mr.Brown Cafe,325,59 kg,Catucai,yellow-green,Natural / Dry,7.42,7.5,7.58,7.33,7.33,7.25,10,7.33,7.72,11.1,"December 30th, 2023",,
+185,Colombia,Mr.Brown Cafe,275,70 kg,Santander,yellow-green,Washed / Wet,7.33,7.5,7.33,7.42,7.42,7.42,10,7.33,7.72,11.2,"December 30th, 2023",,
+186,Mexico,La Villa Coffee Company LLC,32,69 kg,Typica,green,Washed / Wet,7.58,7.42,7.25,7.25,7.5,7.33,10,7.33,7.71,11.8,"August 11th, 2023",,
+187,Costa Rica,Grupo ECOM,100,69 kg,Caturra,green,Washed / Wet,7.33,7.42,7.25,7.42,7.42,7.33,10,7.42,7.7,9.7,"March 28th, 2024",,
+188,Taiwan,Taiwu Coffee Cooperative,1,100 kg,Typica,yellow-green,Pulped natural / honey,7.42,7.5,7.33,7.33,7.33,7.33,10,7.33,7.7,9,"January 6th, 2024",,
+189,Taiwan,Taiwu Coffee Cooperative,1,8 kg,unknown,green,Pulped natural / honey,7.33,7.5,7.42,7.33,7.33,7.25,10,7.33,7.69,8.5,"January 6th, 2024",,
+190,Thailand,Doi Tung Development Project,2,1 kg,Java,green,Washed / Wet,7.33,7.42,7.25,7.33,7.5,7.42,10,7.17,7.68,11.6,"July 14th, 2023",,
+191,Thailand,Taiwan Coffee Laboratory,5,15 kg,Typica Bourbon Caturra Catimor,yellowish,Natural / Dry,7.42,7.25,7.33,7.42,7.33,7.33,10,7.25,7.67,10.5,"November 15th, 2023",,
+192,Thailand,Doi Tung Development Project,2,1 kg,Catimor,green,Washed / Wet,7.25,7.25,7.42,7.25,7.42,7.42,10,7.17,7.65,10.4,"July 14th, 2023",,
+193,Colombia,Coffee Quality Union,1,30 kg,"Caturra,Colombia,Castillo",greenish,Washed / Wet,7.42,7.25,7.25,7.42,7.17,7.33,10,7.33,7.65,11.4,"December 22nd, 2023",,
+194,Brazil,Marubeni Corporation,440,60 kg,,greenish,Natural / Dry,7.42,7.42,7.25,7.25,7.17,7.25,10,7.25,7.63,10.6,"April 16th, 2024",,
+195,El Salvador,Aprentium Enterprises LLC,1,2 kg,Bourbon,bluish-green,Natural / Dry,7.42,7.33,7.33,7.5,7.08,7,10,7.17,7.6,10.5,"March 7th, 2024",,
+196,Nicaragua,ISHIMITSU,275,69 kg,Caturra,greenish,Washed / Wet,7.25,7.25,7.17,7.33,7.08,7.25,10,7.17,7.56,11.5,"July 11th, 2023",,
+197,Nicaragua,SAJONIA ESTATE COFFEE S.A.,275,69 kg,Sarchimor,green,Washed / Wet,7.42,7.17,7,7.08,7.42,7.17,10,7.17,7.55,11.2,"April 19th, 2024",,
+198,Colombia,Coffee Quality Union,3,10 kg,"Castillo,Caturra,Bourbon",greenish,Washed / Wet,7.25,7.25,7.17,7.33,7,7.17,10,7.25,7.55,11,"March 5th, 2024",,
+199,Peru,Itochu Corporation,275,69 kg,Caturra,greenish,Washed / Wet,7.5,7.25,7.17,7.17,7.17,7.08,10,7,7.54,11.8,"June 10th, 2023",,
+200,El Salvador,Aprentium Enterprises LLC,1,2 kg,Pacas,bluish-green,Natural / Dry,7.08,7.25,7.08,7.42,7.42,7.08,10,7,7.54,11.5,"March 7th, 2024",,
+201,Brazil,marubeni,440,60 kg,Catuai and Mundo Novo,greenish,Natural / Dry,7.25,7.17,7.17,7.08,7.17,7.17,10,7.17,7.52,11.6,"July 20th, 2023",,
+202,Brazil,Ipanema Coffees,2240,60 kg,Mundo Novo,green,Natural / Dry,7.17,7.17,6.92,7.17,7.42,7.17,10,7.08,7.51,11.4,"February 2nd, 2024",,
+203,Nicaragua,Exportadora Atlantic S.A,300,30 kg,SHG,green,Natural / Dry,7.33,7.08,6.75,7.17,7.42,7.17,10,7.08,7.5,10.4,"March 2nd, 2024",,
+204,Laos,Marubeni Corporation,343,60 kg,Catimor,green,Washed / Wet,7.25,7.17,7.08,7,7.08,7.08,10,7,7.46,11.6,"November 11th, 2023",,
+205,El Salvador,Aprentium Enterprises LLC,1,2 kg,Maragogype,bluish-green,Natural / Dry,6.5,6.75,6.75,7.17,7.08,7,10,6.83,7.26,11,"March 7th, 2024",,
+206,Brazil,Descafeinadores Mexicano SA. de CV,600,60 kg,Mundo Novo,green,SEMI-LAVADO,7.25,7.08,6.67,6.83,6.83,6.67,10,6.67,7.25,11.3,"November 18th, 2023",,
